@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<routine name="Good Morning Bed Stretch" category="Travel"> 
+   		<intro-description>Give yourself a hug when you wake up. Feel great all day by easing into it with these fantastic stretches.</intro-description>
+    	<time>5 minutes</time>
+    	<level>Beginner</level>
+    	<requirements>Small space to lie down.</requirements>
+		<image>recliningsidetwistleftside</image>
+    	
+		<exercise id="bothkneestochest">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+
+		<exercise id="leftstraightlegstretch">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+		
+		<exercise id="rightstraightlegstretch">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+		
+		<exercise id="leftkneetochest">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+
+		<exercise id="rightkneetochest">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+
+		<exercise id="recliningsidetwistleftside">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+		
+		<exercise id="recliningsidetwistrightside">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+	
+		<exercise id="rightEarStretch"> 	
+   			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>	
+    
+    	<exercise id="leftEarStretch"> 	
+   			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+	
+		<exercise id="mountainpose">
+			<time-active>30</time-active>
+  			<time-rest>0</time-rest>
+		</exercise>
+	
+	</routine>

@@ -1,0 +1,61 @@
+10
+
+dir
+146
+svn+ssh://gsnield@remote.s4-llc.com/opt/svn/workout_app/trunk/res
+svn+ssh://gsnield@remote.s4-llc.com/opt/svn/workout_app
+
+
+
+2013-02-03T11:14:33.975230Z
+146
+gsnield
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3139d158-171a-4501-b94c-756124a0681f
+
+values
+dir
+
+xml
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+layout-large
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+raw
+dir
+
+drawable-land
+dir
+
+layout
+dir
+
+layout-xlarge
+dir
+

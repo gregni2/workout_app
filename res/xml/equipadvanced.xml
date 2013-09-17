@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<routine name="Dumbbells and Bench Advanced" category="Some Equipment"> 
+   		<intro-description>Dumbbells and Bench: Advanced Workout.</intro-description>
+    	<time>15 minutes</time>
+    	<level>Advanced</level>
+		<image>chairhipextensions</image>
+    	<requirements>Dumbbells and Bench.</requirements>
+
+		<exercise id="marchingInPlace">
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+		
+		<exercise id="backSlaps">
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+  		</exercise>
+	
+		<exercise id="sidesteps">
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+		
+		<exercise id="backSlaps">
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+		
+		<exercise id="frontpunches">
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+		
+		<exercise id="marchingInPlace">
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+		
+		<exercise id="sidesteps">
+			<time-active>20</time-active>
+  			<time-rest>0</time-rest>
+		</exercise>
+		
+		<exercise id="mainworkout">
+			<time-active>10</time-active>
+  			<time-rest>10</time-rest>
+		</exercise>
+		
+		<exercise id="stepups">
+			<time-active>45</time-active>
+  			<time-rest>15</time-rest>
+		</exercise>
+		
+		<exercise id="tpushups">
+			<time-active>45</time-active>
+  			<time-rest>15</time-rest>
+		</exercise>
+		
+		<!--  GSN. Gary originally wanted twopoint row.  -->
+		<exercise id="balancerowright">
+			<time-active>45</time-active>
+  			<time-rest>15</time-rest>
+		</exercise>
+		
+		<exercise id="tpushups">
+			<time-active>45</time-active>
+  			<time-rest>15</time-rest>
+		</exercise>
+		
+		<exercise id="balancerowleft">
+			<time-active>45</time-active>
+  			<time-rest>15</time-rest>
+		</exercise>
+		
+		<exercise id="stepups">
+			<time-active>45</time-active>
+  			<time-rest>15</time-rest>
+		</exercise>
+		
+		<exercise id="wallyraises">
+			<time-active>45</time-active>
+  			<time-rest>15</time-rest>
+		</exercise>
+		
+		<exercise id="chairhipextensions">
+			<time-active>45</time-active>
+  			<time-rest>15</time-rest>
+		</exercise>
+		
+		<exercise id="reversecrunch">
+			<time-active>45</time-active>
+  			<time-rest>15</time-rest>
+		</exercise>
+		
+		<exercise id="chairhipextensions">
+			<time-active>45</time-active>
+  			<time-rest>15</time-rest>
+		</exercise>
+		
+		<exercise id="reversecrunch">
+			<time-active>45</time-active>
+  			<time-rest>0</time-rest>
+		</exercise>
+					
+	</routine>

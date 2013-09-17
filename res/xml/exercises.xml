@@ -1,0 +1,1956 @@
+<?xml version="1.0" encoding="utf-8"?> 
+	
+<exercises>
+	<exercise id="leftEarStretch" name="Left Ear to Left Shoulder Stretch"> 	
+   			<picture>leftshoulderstretch</picture>
+   	
+   			<detailed-description>A great desk and morning exercise. With a centered head (do not lean your head forward), very gently try and bring your left ear to your left shoulder. Hold.</detailed-description>
+   			<short-description>With a centered head and straight back, gently try and bring your left ear to your left shoulder. Hold.</short-description>
+
+   			<time-active>10</time-active>
+  			<time-rest>10</time-rest>
+
+   			<sound name="male">begin</sound>
+			<sound name="female">wleftearstretch</sound>	
+			
+			<preparing-male-sound>mleftearstretch</preparing-male-sound>
+			<preparing-female-sound>wleftearstretch</preparing-female-sound>
+	</exercise>
+		
+	<exercise id="rightEarStretch"  name="Right Ear to Right Shoulder Stretch"> 	
+   			<picture>rightshoulderstretch</picture>
+   	
+   			<detailed-description>A great desk and morning exercise. With a centered head (do not lean your head forward), very gently try and bring your right ear to your shoulder with your ear. Hold.  Slowly return to center when done.</detailed-description>
+   			<short-description>With a centered head and straight back, gently try and bring your right ear to your right shoulder. Hold. </short-description>
+ 
+   			<time-active>10</time-active>
+  			<time-rest>10</time-rest>
+  
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	
+			<preparing-male-sound>mrightearstretch</preparing-male-sound>
+			<preparing-female-sound>wleftearstretch</preparing-female-sound>
+	</exercise>	
+	
+	<exercise id="marchingInPlace"  name="Marching in Place"> 	
+	        <picture>marchinginplace</picture>
+	               
+   			<detailed-description>One leg at a time, gently lift your knees up and down. Keep up a good steady rhythm.</detailed-description>
+   			<short-description>One leg at a time, gently lift your knees up and down. Keep up a good steady rhythm.</short-description>
+
+   			<time-active>15</time-active>
+  			<time-rest>10</time-rest>			
+
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	
+			<preparing-male-sound>mmarchinplace</preparing-male-sound>
+			<preparing-female-sound>pmarchinplace</preparing-female-sound>
+	</exercise>	
+
+	<exercise id="backSlaps"  name="Back Slaps"> 	
+   	        <picture>backslaps</picture>
+   	        
+   			<detailed-description>Give yourself a pat on the back! Gently swing your arms crisscross across your chest and give yourself a light slap on your back. Keep up a gentle rhythm and switch arms each time.</detailed-description>
+   			<short-description>Give yourself a pat on the back! Gently swing your arms crisscross across your chest and give yourself a light slap on your back. Keep up a gentle rhythm and switch arms each time.</short-description>
+
+   			<time-active>15</time-active>
+  			<time-rest>10</time-rest>
+
+   			<preparing-male-sound>pbackslaps</preparing-male-sound>
+			<preparing-female-sound>pbackslaps</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">begin</sound>	
+	</exercise>	
+	
+	<exercise id="shoulder8s"  name="Shoulder 8s"> 	
+   	        <picture>shoulder8s</picture>
+   	        
+   			<detailed-description>Keeping up a good rhythm, swing both arms in front of you, making a large figure 8 pattern. Make it large and slow to really stretch your shoulders.</detailed-description>
+   			<short-description>Start with hands in front of you and begin swinging your arms to make a large figure 8.  Make it large and slow to really stretch your shoulders.</short-description>
+   	
+   			<time-active>25</time-active>
+  			<time-rest>10</time-rest>
+
+			<preparing-male-sound>mpshoulder8s</preparing-male-sound>
+			<preparing-female-sound>wrighteartoshoulder</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="sidesteps"  name="Side Steps"> 	
+	       <picture>sidesteps</picture>
+	       
+   			<detailed-description>Start with your legs together. Put one leg out to the side, then step back and repeat on the opposite side. Make sure your knee does not bend past your foot.  Keep a good, steady rhythm and a nice straight posture.</detailed-description>
+   			<short-description>Legs together. Step one leg out to side, and then step back. Repeat for the opposite side. Make sure your knee does not bend past your foot. Keep a nice straight posture.</short-description>
+ 
+   			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+
+   			<preparing-male-sound>mpsidestep</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="torsotwists"  name="Torso Twists"> 	
+            <picture>torsotwists</picture>
+            	
+   			<detailed-description>With feet firmly on the floor, elbows in at your side, and hands placed in front of your belly button, lightly twist from left to right using small movements.</detailed-description>
+   			<short-description>With hands placed in front of your belly button, gently twist from left to right using small movements.</short-description>
+   			
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mptorsotwist</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+				
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="plankhold"  name="Plank Hold "> 	
+            <picture>plankhold</picture>
+            	
+   			<detailed-description>Lie down on your stomach, then prop yourself up using your elbows bent at 90 degrees, shoulder-width apart. Shoulders should be directly above the elbows with forearms resting on the floor. Hold this position for 30 seconds, maintaining a straight line from head to knee. Brace abdominals.</detailed-description>
+   			<short-description>On your stomach, hands flat on the floor, lift your body so your shoulders are directly above your elbows. Your legs should be straight.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mplank</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="plankknees"  name="Plank Hold on Knees"> 	
+	        <picture>plankhold</picture>
+	
+   			<detailed-description>Lie down on your stomach, then prop yourself up using your elbows bent at 90 degrees, shoulder-width apart. Shoulders should be directly above the elbows with forearms resting on the floor. For more difficulty, don't do this exercise on your knees; instead lift to straight legs.</detailed-description>
+   			<short-description>On your stomach, hands flat on the floor, lift your body so your shoulders are directly above your elbows. Your knees remain in contact with the floor. For more difficulty, don't do this exercise on your knees; instead, lift to straight legs.</short-description>
+   			
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mpplankknees</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+	
+			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="rightsideplanknees"  name="Right Side Plank, Knees on Floor"> 	
+	        <picture>rlsideplankonknees</picture>
+	
+   			<detailed-description>Lying on the floor, place your right forearm flat on the floor, stack your legs, and bend your knees. Raise yourself up. Your right shoulder and elbow should form a straight line. Keep your spine straight and aligned with your head. Make sure you are contracting your stomach muscles.</detailed-description>
+   			<short-description>Lying on the floor, place your right forearm flat on the floor, stack your legs, and bend your knees. Raise yourself up. Your right shoulder and elbow should form a straight line. </short-description>
+   	
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mprightsideplankknees</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="leftsideplanknees"  name="Left Side Plank, Knees on Floor"> 	
+	        <picture>rlsideplankonknees</picture>
+	
+   			<detailed-description>Lying on the floor, place your left forearm flat on the floor, stack your legs, and bend your knees. Raise yourself up. Your left shoulder and elbow should form a straight line. Keep your spine straight and aligned with your head. Make sure you are contracting your stomach muscles.</detailed-description>
+   			<short-description>Lying on the floor, place your left forearm flat on the floor, stack your legs, and bend your knees. Raise yourself up.  Your left shoulder and elbow should form a straight line. </short-description>
+   	
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mpleftsideplanknees</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+	
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="toetaps"  name="Toe Taps"> 	
+	        <picture>toetaps</picture>
+	        
+   			<detailed-description>Lie on your back with legs raised and bent at 90 degrees and arms raised 12 inches from the floor. Slowly lower one leg down until toe touches down, then raise the leg back up.  Repeat with other leg.  At all times, maintain natural lower lumbar curve.</detailed-description>
+   			<short-description>Lie on your back with legs raised and bent at 90 degrees and arms raised 12 inches from the floor. Slowly lower one leg down until toe touches down, raise back up and then change leg. At all times, maintain natural lower lumbar curve.</short-description>
+   			
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mptoetaps</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="rightleglunge"  name="Right Leg Lunges"> 	
+	        <picture>rightleglunge</picture>
+	
+   			<detailed-description>Carefully step your right foot forward then drive your right back leg back to start. Make sure your knee is at a 90 degree angle to your ankle. Repeat at your own pace.</detailed-description>
+   			<short-description>Carefully step your right foot forward then drive your right leg back to start. Make sure your knee is at a 90 degree angle to your ankle. Repeat at your own pace.</short-description>
+   	
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mrightleglunge</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="leftleglunge"  name="Left Leg Lunges"> 	
+	        <picture>leftleglunge</picture>
+   			
+   			<detailed-description>Carefully step your left foot forward then drive your left back leg back to start. Make sure your knee is at a 90 degree angle to your ankle. Repeat at your own pace.</detailed-description>
+   			<short-description>Carefully step your left foot forward then drive your left back leg back to start. Make sure your knee is at a 90 degree angle to your ankle. Repeat at your own pace.</short-description>
+   	
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mleftleglunge</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+	
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="finished"  name="Finished"> 	
+	        <picture>iconrunner</picture>
+	        
+   			<detailed-description>You've finished this routine! Cool down. Walk slowly in place.</detailed-description>
+   			<short-description>You've finished this routine! Cool down. Walk slowly in place.</short-description>
+   	
+   			<time-active>20</time-active>
+  			<time-rest>1</time-rest>
+   	
+   			<preparing-male-sound></preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">finished</sound>
+			<sound name="female">finished</sound>	
+	</exercise>	
+	
+	<exercise id="airplanefinished"  name="Airplane Finished"> 	
+	        <picture>iconrunner</picture>
+	        
+   			<detailed-description>You've finished this routine! Take a few deep breaths and relax your whole body. Concentrate on taking relaxing breaths from the abdomen.</detailed-description>
+   			<short-description>You've finished this routine! Take a few deep breaths and relax your whole body. Concentrate on taking relaxing breaths from your abdomen.</short-description>
+   	
+   			<time-active>20</time-active>
+  			<time-rest>1</time-rest>
+   	
+   			<preparing-male-sound></preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">finished</sound>
+			<sound name="female">finished</sound>	
+	</exercise>	
+	
+	<exercise id="chairsquats"  name="Chair Squats"> 	
+	        <picture>chairsquats2</picture>
+	        
+   			<detailed-description>Lower your body, bending at the waist and knee, until you gently sit on the chair behind you. (You can alter the height by using a cushion or pillow). Pause. Then drive yourself back up to a standing position. Repeat slowly and in control.</detailed-description>
+   			<short-description>Lower your body, bending at the waist and knee, until your sit on the chair. Pause. Then drive yourself back to standing position. Repeat slowly and in control.</short-description>
+   			
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mchairsquats</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+	
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="bedcharsquats"  name="Bed or Chair Squats"> 	
+	        <picture>chairsquats2</picture>
+	
+   			<detailed-description>Lower your body, bending at the waist and knee, until you gently sit on the bed or chair behind you. (You can alter the height by using a cushion or pillow). Pause. Then drive yourself back up to a standing position. Repeat slowly and in control.</detailed-description>
+   			<short-description>Lower your body, bending at the waist and knee, until your sit on the bed or chair. Pause. Then drive yourself back to standing position. Repeat slowly and in control.</short-description>
+   			
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mchairsquats</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+	
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+	
+	<exercise id="chairhipextensions"  name="Chair Hip Extensions"> 	
+	        <picture>chairhipextensions</picture>
+	        
+   			<detailed-description>Lie on your back and place both feet on a chair, knees bent at 90 degrees. Using only your legs, push your hips upwards as high as you can (your thighs should be in a straight line with your back). Repeat up and down.</detailed-description>
+   			<short-description>Lying on your back, arms at your side, place both feet on a chair or the end of bed, knees bent at 90 degrees. Now using only your legs, push your hips upwards as high as you can (your thighs should be in a straight line with your back). Repeat up and down.</short-description>
+   	
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mcharhipextensions</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="wallyraises"  name="Wall Y Raises"> 	
+ 	        <picture>wallyraises</picture>
+
+   			<detailed-description>Standing upright with back and palms touching the wall, bring both arms forward to shoulder height, pinch shoulder blades and make a Y formation with your arms. Lower slowly and repeat.</detailed-description>
+   			<short-description>Standing upright with back and palms touching the wall, bring both arms forward to shoulder height, pinch shoulder blades and make a Y formation with your arms. Lower slowly and repeat.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mwallyraises</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="wallpushups"  name="Wall Pushups"> 	
+	        <picture>wallpushups</picture>
+	        
+   			<detailed-description>Standing approximately 2 feet away from the wall, feet and hands shoulder-width apart with hands placed slightly below the shoulders, lean forward into the wall, keeping the body straight from head to toe. Push through the entire movement, keeping the mid-section braced. Push your body away from the wall. Then slowly bring your body back towards the wall. For an advanced exercise, add weight.</detailed-description>
+   			<short-description>Standing 2ft away from wall, feet and hands shoulder-width apart, hands placed slightly below the shoulders, lean into the wall. Keeping body straight from head to toe, push your body away from the wall. Then slowly go back towards the wall. For an advanced exercise, add weight.</short-description>
+   	 
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mwallpushup</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="sidetosidearmslams"  name="Side To Side Arm Slams"> 	
+	        <picture>sidetosidearmslams</picture>
+	        
+   			<detailed-description>Stand upright with feet hip-distance apart and knees slightly bent. Place arms at your sides, flexed at 90 degrees with palms pressed as hard as possible together. While bracing abdominals and remaining upright, rotate bent arms as fast as possible from side to side, keeping the palms pressed together. </detailed-description>
+   			<short-description>Stand upright with feet hip-distance apart and knees slightly bent. Arms placed at sides, flexed at 90 degrees with palms pressed as hard as possible together. While bracing abs, rotate bent arms as fast as possible from side to side, keeping the palms pressed. </short-description>
+   	
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>msidetosidearslams</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="pushups"  name="Pushups"> 	
+	        <picture>pushups</picture>
+	        
+   			<detailed-description>Lie face-first on the floor with hands planted shoulder-width apart and your feet together. Keeping your elbows close to your body, maintaining a straight line between your feet and your head, push up so that your arms are almost straight. Make sure not to lock your arms. With control, bend back down. </detailed-description>
+   			<short-description>On the floor, place hands shoulder-width apart and your feet together. Keeping your elbows close to your body, maintaining a straight line between your feet and your head, push up so that your arms are almost straight. With control, bend back down.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mpushup</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="sidebend"  name="Side Bends"> 	
+   			<detailed-description>Slowly lean over at the torso, bending from one side to the other, keeping your back straight. You should feel this in your obliques. Take deep breaths. Inhale on the way down. Exhale on the way up.</detailed-description>
+   			<short-description>Slowly bend at the torso from one side to the other. Keep a straight back.</short-description>
+   	
+   			<picture>rlsidebends</picture>
+   			
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>msidebends</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="rightsidebend"  name="Right Side Bend"> 	
+	        <picture>rlsidebends</picture>
+	        
+            <detailed-description>Slowly lean over at the torso, bending from one side to the other, keeping your back straight. You should feel this in your obliques. Take deep breaths. Inhale on the way down. Exhale on the way up.</detailed-description>
+            <short-description>Slowly bend at the torso from one side to the other. Keep a straight back.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+  			
+   			<preparing-male-sound>mrightsidebend</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="scissorlegs"  name="Scissor Legs"> 	
+	        <picture>scissorlegs</picture>
+	        
+   			<detailed-description>Lie on your back with hands under your butt; keep your head up. With legs straight, raise your legs 6 inches off the ground. Slowly move your legs shoulder-width apart, then back together.</detailed-description>
+   			<short-description>Lie on your back with hands under your butt; keep your head up. With legs straight, raise your legs 6 inches off the ground. Slowly move your legs shoulder-width apart, then back together.</short-description>
+   	
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mscissorlegs</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="rightsideplank"  name="Right Side Plank"> 	
+	        <picture>rightsideplank</picture>
+	
+            <detailed-description>Lying on the floor, place your right forearm flat on the floor. Stack your legs and straighten your legs. Raise yourself up. Your right shoulder and elbow should form a straight line. Keep your spine straight and aligned with your head. Make sure you are contracting your stomach muscles.</detailed-description>
+            <short-description>Lying on the floor, place your right forearm flat on the floor. Stack and straighten your legs. Raise yourself up.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mrightsideplank</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="leftsideplank"  name="Left Side Plank"> 	
+	        <picture>leftsideplank</picture>
+	        
+   			<detailed-description>Lying on the floor, place your left forearm flat on the floor. Stack your legs and straighten your legs. Raise yourself up. Your left shoulder and elbow should form a straight line. Keep your spine straight and aligned with your head. Make sure you are contracting your stomach muscles.</detailed-description>
+   			<short-description>Lying on the floor, place your left forearm flat on the floor. Stack and straighten your legs. Raise yourself up.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mlsideplank</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="jumpsquats"  name="Jump Squats"> 	
+	        <picture>jumpsquats</picture>
+	        
+   			<detailed-description>While making sure your knees do not go past your toes, bend your knees and squat down, pushing your rear-end out and away. Push up lightly. Land toe then heal. Pushing up, go heel then toe.</detailed-description>
+   			<short-description>While making sure your knees do not go past your toes, bend your knees and squat down, pushing your rear-end out. Push up lightly. Land toe then heal. Pushing up, go heel then toe.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mjumpsquats</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="frontpunches"  name="Front Punches"> 	
+	        <picture>frontpunches</picture>
+	        
+   			<detailed-description>Plant your feet shoulder-width apart. Keeping your shoulders square, punch straight out in front out of you, alternating hands.  Try to imagine a point one arms-length in front of your nose to direct your punches towards.</detailed-description>
+   			<short-description>Plant your feet shoulders-width apart. Keeping your shoulders square, punch straight out in front out of you, alternating hands.</short-description>
+   	
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mfrontpunches</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="overheadpunches"  name="Overhead Punches"> 	
+	        <picture>overheadpunches</picture>
+	        
+   			<detailed-description>Plant your feet shoulders-width apart. Keeping your shoulders square, punch straight up above your head, alternating hands.</detailed-description>
+   			<short-description>Plant your feet shoulders-width apart. Keeping your shoulders square, punch straight up above your head, alternating hands.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>moverheadpunhces</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="staggeredpushup"  name="Staggered Pushups"> 	
+	        <picture>staggeredpushups</picture>
+	        
+   			<detailed-description>This is performed just like a classic pushup except one hand is slightly forward of the normal position and the other slightly back. Let your chest fall until your upper arms are at least parallel to the floor. Keep a nice straight line through the entire movement. Change hands for each repeat.</detailed-description>
+   			<short-description>Performed just like a classic pushup except one hand is slightly forward of the normal position and the other slightly back. Let your chest fall until your upper arms are at least parallel to the floor. Keep a nice straight line through the entire movement. Change hands for each repeat.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mstaggeredpushups</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+
+	<exercise id="anklerollsclockwise"  name="Ankle Rolls Clockwise"> 	
+	        <picture>anklerollsclockwise</picture>
+	        
+   			<detailed-description>To increase the blood flow to your legs and avoid blood clotting, lift your feet off the ground, and rotate your feet clockwise. You should do at least 2 in the time allotted.</detailed-description>
+   			<short-description>To increase the blood flow to your legs and avoid blood clotting, lift your feet off the ground, and rotate your feet clockwise. You should do at least 2 in the time allotted.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>anklerollsclockwise</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="anklerollscounterclockwise"  name="Ankle Rolls Counterclockwise"> 	
+	        <picture>anklerollsclockwise</picture>
+	        
+   			<detailed-description>To increase the blood flow to your legs and avoid blood clotting, lift your feet off the ground, and rotate your feet counterclockwise. You should do at least 2 in the time allotted.</detailed-description>
+   			<short-description>To increase the blood flow to your legs and avoid blood clotting, lift your feet off the ground, and rotate your feet counterclockwise. You should do at least 2 in the time allotted.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>anklerollscounterclockwise</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="leftupwardwriststretch"  name="Left Upward Wrist Stretch"> 
+	        <picture>upwardwriststretch</picture>
+	        	
+   			<detailed-description>Extend your wrists and fingers upwards towards the ceiling.  Gently apply pressure with your opposite hand. Hold for the allotted time until rest period.  When done, relax your hand and straighten your wrist.</detailed-description>
+   			<short-description>Extend your wrists and fingers upwards towards the ceiling. Gently apply pressure with your opposite hand. Hold for the allotted time. When done, relax your hand and straighten your wrist.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mleftupwardwriststretch</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="rightupwardwriststretch"  name="Right Upward Wrist Stretch"> 	
+	        <picture>upwardwriststretch</picture>
+	        
+            <detailed-description>Extend your wrists and fingers upward towards the ceiling.  Gently apply pressure with your opposite hand. Hold for the allotted time until rest period.  When done, relax your hand and straighten your wrist.</detailed-description>
+            <short-description>Extend your wrists and fingers upward towards the ceiling. Gently apply pressure with your opposite hand. Hold for the allotted time. When done, relax your hand and straighten your wrist.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mrightupwardwriststretch</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+
+	<exercise id="downwardwriststretch"  name="Downward Wrist Stretch"> 	
+	        <picture>downwardwriststretch</picture>
+	        
+   			<detailed-description>Clench your hand into a fist and point it downward towards the floor. Gently apply pressure with your opposite hand. Hold for the allotted time until rest period. When done, relax your hand and straighten your wrist.</detailed-description>
+   			<short-description>Clench your hand into a fist and point downward towards the floor. Gently apply pressure with your opposite hand. Hold until rest period. When done, relax your hand and straighten your wrist.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>begin</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="leftdownwardwriststretch"  name="Left Downward Wrist Stretch"> 	
+	        <picture>downwardwriststretch</picture>
+	        
+   			<detailed-description>Point your hand downward towards the floor. Gently apply pressure with your opposite hand. Hold for the allotted time until rest period. When done, relax your hand and straighten your wrist.</detailed-description>
+   			<short-description>Point your hand downward towards the floor. Gently apply pressure with your opposite hand. Hold until rest. When done, relax your hand and straighten your wrist.</short-description>
+   			
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mleftdownwardwriststretch</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="rightdownwardwriststretch"  name="Right Downward Wrist Stretch"> 	
+	        <picture>downwardwriststretch</picture>
+	        
+   			<detailed-description>Point your hand downward towards the floor. Gently apply pressure with your opposite hand. Hold for the allotted time until rest period. When done, relax your hand and straighten your wrist.</detailed-description>
+   			<short-description>Point your hand downward towards the floor. Gently apply pressure with your opposite hand. Hold until rest.  When done, relax your hand and straighten your wrist.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mrightdownwardwriststretch</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="leftseattwist"  name="Left Seat Twist"> 	
+	        <picture>leftseattwist</picture>
+	        
+   			<detailed-description>On a stable chair, sit up straight with your feet planted flat on the ground, arms crossed. Gently twist towards the left side. Hold for the allotted time until rest period. Be aware of your form. Keep a straight back.</detailed-description>
+   			<short-description>On a stable chair, sit up straight with your feet planted flat on the ground, arms crossed. Gently twist towards the left side. Hold until rest. Be aware of your form. Keep a straight back. </short-description>
+   	
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mleftseattwist</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="rightseattwist"  name="Right Seat Twist"> 	
+	        <picture>rightseattwist</picture>
+	        
+   			<detailed-description>On a stable chair, sit up straight with your feet planted flat on the ground. Gently twist towards the right side. If you can touch the chair with your right hand that's great. But be aware of your form.</detailed-description>
+   			<short-description>On a stable chair, sit up straight with your feet planted flat on the ground. Gently twist towards the right side. If you can touch the chair with your right hand that's great. But be aware of your form.</short-description>
+   	
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mrightseattwist</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="calvemovers"  name="Calf Raises"> 	
+	        <picture>calvemovers</picture>
+	        
+   			<detailed-description>This exercise is to increase the blood flow to your legs and avoid clotting.  Using only your calves, raise your legs onto the balls of your feet, and then slowly lower them. Repeat.</detailed-description>
+   			<short-description>This exercise is to increase the blood flow to your legs and avoid clotting.  Using only your calves, raise your legs onto the balls of your feet, and then slowly lower them. Repeat.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mcalveraise</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+<!--
+	<exercise id="leftleglift"  name="Left Leg Lift To Chest"> 	
+	        <picture>anklerollsclockwise</picture>
+	        
+   			<detailed-description>While seated raise left leg leg towards the chest (try to stay upright). Keep back very straight and head up. All the movement should be from the leg. Take deep breaths in and out.</detailed-description>
+   			<short-description>While seated raise left leg leg towards the chest (try to stay upright). Keep back very straight and head up. All the movement should be from the leg. Take deep breaths in and out.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>moverheadpunhces</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	
+	<exercise id="rightleglift"  name="Right Leg Lift To Chest"> 	
+	        <picture>anklerollsclockwise</picture>
+	        
+   			<detailed-description>While seated raise right leg leg towards the chest (try to stay upright). Keep back very straight and head up. All the movement should be from the leg.</detailed-description>
+   			<short-description> While seated raise right leg leg towards the chest (try to stay upright). Keep back very straight and head up. All the movement should be from the leg.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>moverheadpunhces</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+	 
+	<exercise id="rightleglift"  name="Right Leg Lift To Chest"> 
+	        <picture>anklerollsclockwise</picture>
+	        	
+   			<detailed-description>While seated raise right leg leg towards the chest (try to stay upright). Keep back very straight and head up. All the movement should be from the leg.</detailed-description>
+   			<short-description>While seated raise right leg leg towards the chest (try to stay upright). Keep back very straight and head up. All the movement should be from the leg.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>moverheadpunhces</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+-->
+	<exercise id="forwardneckstretch"  name="Forward Neck Stretch"> 	
+	        <picture>forwardneckstretch</picture>
+	        
+   			<detailed-description>A great desk and morning exercise. With a centered head (do not lean your head side to side), very gently tuck your chin to your chest. Hold for the allotted time until rest period. Slowly return to center at end.</detailed-description>
+   			<short-description>A great desk and morning exercise. With a centered head (do not lean your head side to side), very gently tuck your chin to your chest. Hold until rest. Slowly return to center at end.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mforwardneckstretch</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>	
+
+	<exercise id="calveraise"  name="Calf Raise"> 	
+	        <picture>calvemovers</picture>
+	        
+   			<detailed-description>This exercise is to increase the blood flow to your legs and avoid clotting.  Using only your calves, raise your legs onto the balls of your feet, and then slowly lower them. Repeat. </detailed-description>
+   			<short-description>This exercise is to increase the blood flow to your legs and avoid clotting.  Using only your calves, raise your legs onto the balls of your feet, and then slowly lower them. Repeat. </short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>calveraise</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+<!--  
+	<exercise id="trow"  name="T Rows"> 	
+	        <picture>anklerollsclockwise</picture>
+	        
+   			<detailed-description>Lie face down on the end of the bed with the shoulders and head over the end. Stretch arms downwards towards the ground, then draw arms back until hands are in line with shoulders and shoulders blades are pinched.</detailed-description>
+   			<short-description>Face down at end of the bed, shoulders and head over end. Stretch arms towards the ground. Draw arms back until hands are in line with shoulders and shoulders blades are pinched. Repeat.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>moverheadpunhces</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+-->
+	<exercise id="kneeraises"  name="Knee Raises"> 	
+	        <picture>kneeraises</picture>
+	        
+   			<detailed-description>Place your hands on your armrests firmly. Gently raise your legs towards your chest, then lower them lightly down.  Repeat.</detailed-description>
+   			<short-description>Place your hands on your armrests firmly. Gently raise your legs towards your chest, then lower them lightly down. Repeat.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>kneeraises</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+	
+	<exercise id="shoulderrolls"  name="Shoulder Rolls"> 	
+	        <picture>shoulderrolls</picture>
+	        
+   			<detailed-description>The goal of this exercise is to make small circles with your shoulders. Start by bringing your shoulders down and forward, then up (as if shrugging), and then down and back. You should feel a different body part stretched at each of the four different points. Keep your arms down by your side.</detailed-description>
+   			<short-description>Make small circles with your shoulders. Start by bringing your shoulders down and forward, then up (as if shrugging), and then down and back.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mshoulderrolls</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+	
+	<exercise id="deadlift"  name="Dead Lift"> 	
+	        <picture>deadlift</picture>
+	        
+   			<detailed-description>Dumbbells shoulder-width apart and a few inches in front of thighs, arms straight, lower back in slight natural arch, and shoulders back. Lower dumbbells along the line of the thighs until just below your knees, hips back, knees slightly bent. To lift, push hips forward and straighten torso, pulling dumbbells up along the line of your thighs.</detailed-description>
+   			<short-description>Position yourself with dumbbells shoulder-width apart and a few inches in front of thighs, arms straight, lower back in slight natural arch. Lower dumbbells along the line of the thighs until they’re just below your knees, hips back. To lift, push hips forward and straighten torso, pulling dumbbells up along the line of your thighs.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mdeadlift</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+
+	<exercise id="dumbbellchestfly"  name="Dumbbell Chest Fly"> 
+	        <picture>dumbellflies2</picture>
+	        	
+   			<detailed-description>Setup: Lie flat on your back or bench, holding dumbbells straight over your chest, with your palms facing inwards. Keep your wrists strong.  Lowering: Lower the weight until your elbows are bent and parallel with shoulders. Lifting: Then squeeze chest until dumbells are at starting position.</detailed-description>
+   			<short-description>Lie flat on your back, holding dumbbells straight over chest, with palms facing inwards. Keep wrists strong. Lower the weight keeping your elbows bent and parallel with shoulders. Then squeeze chest until dumbells are at starting position.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>dumbellchestfly</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+	
+	<exercise id="dumbbellchestpress"  name="Dumbbell Chest Press"> 
+	        <picture>dumbellchestpress</picture>
+	        
+	        <detailed-description>Setup: Lie flat on your bench, holding dumbbells straight over your chest, with your palms turned towards your feet. Keep your wrists straight.  Lowering: Lower the weight until your elbows are bent at 45 degrees and parallel with shoulders. Lifting: Push the weights straight up to the starting position.</detailed-description>
+            <short-description>Lie flat on your bench, holding dumbbells straight over chest, with palms turned back towards your feet. Keep wrists straight. Lower the weight until your elbows are bent at 45 degrees and parallel with shoulders. Then push weights straight up to the starting position.</short-description>
+            
+            <preparing-male-sound>mdumbbellchestpress</preparing-male-sound>
+	        
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+	
+	
+	<exercise id="twopointdumbbelltow"  name="Left Side Two Point Dumbbell Row with Elbow Out"> 	
+	        <picture>twopointdumbbelltow</picture>
+	        
+   			<detailed-description> Setup: Start with feet parallel and hip-width apart, lunge right or left leg out and back, alternating legs on each repetition. Lowering: Lower your body so your front knee is bent 90 degrees and your rear knee nearly touches the floor. Keep your torso as upright as possible. Do not let your knee go past your toe. Lifting: Drive back up to the standing position. Change legs and repeat.</detailed-description>
+   			<short-description>Feet parallel, hip-width apart. Lunge right or left leg out and back, alternating legs on each repetition. Each time Lower your body so front knee is 90 degrees and rear knee nearly touches the floor. Keep torso upright. Keep knee from going past your toe. Drive back to standing position, then change legs and repeat.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mtwopointdumbbellrowwithelbowout</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+	
+	<exercise id="leftsplitsquats"  name="Left Split Squat"> 	
+	        <picture>splitsquat</picture>
+	        
+   			<detailed-description>Stand with your legs split, the top of your left foot resting on a bench. Hold the dumbbells with straight arms at your side, palms facing your sides. Lower your body until your front knee is bent about 90 degrees, while keeping your torso upright. Rise back to the starting position.</detailed-description>
+   			<short-description>Stand with your legs split, the top of your left foot resting on a bench. Hold the dumbbells with straight arms at your side, palms facing your sides. Lower your body until your front knee is bent about 90 degrees, while keeping your torso upright. Rise back to the starting position. </short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mleftlegsplitsquats</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+	
+	<exercise id="rightsplitsquats"  name="Right Split Squat"> 
+            <picture>splitsquat</picture>
+            
+   			<detailed-description>Stand with your legs split, the top of your right foot on a bench. Hold dumbbells with straight arms at your side, palms facing your sides. Lower your body until your front knee is bent about 90 degrees, keep your torso upright. Rise back to the starting position.</detailed-description>
+   			<short-description>Stand with your legs split, the top of your right foot on a bench. Hold dumbbells with straight arms at your side, palms facing your sides. Lower your body until your front knee is bent about 90 degrees, keep your torso upright. Rise back to the starting position. </short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mrightlegsplitsquats</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+	
+	<exercise id="stepups"  name="Step Ups"> 	
+	        <picture>stepups</picture>
+	        
+   			<detailed-description>Bench no higher than knee level, hold the dumbbells at your sides, placing right foot flat on the bench, then pushing down through your right foot to straighten right leg and lift your entire body up. (Your left leg is just along for the ride.) Then place left foot on the bench. Step off with your left foot. Lower your right leg so you are back to the start and repeat 8 times, then switch legs. Don't drop down too quickly. Don't let your knee go past a 90 degree angle.</detailed-description>
+   			<short-description>Bench at knee level, dumbbells at your sides, right foot flat on the bench. Push down through your right foot, straighting right leg and lifting the entire body up. Then place left foot on the bench. Step off with your left foot. Lower your right leg so you are back to the start and repeat 8 times, then switch legs.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mstepups</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+	
+	<exercise id="tpushups"  name="T Pushups"> 	
+	        <picture>tpushup</picture>
+	        
+   			<detailed-description>Get into a pushup position. Lower your chest to the floor. Push yourself up, then twist to your right side, lifting your arm straight up towards the ceiling (try to follow your hand with your eyes). That’s one rep.  Now return to the starting position.  Repeat, twisting to the left. That’s your second rep. To advance further, add a dumbbell to the arm that reaches upwards.</detailed-description>
+   			<short-description>Get into a pushup position. Lower your chest to the floor. Push yourself up, then twist to your right side, lifting your arm straight up towards the ceiling (try to follow your hand with your eyes). Return to the starting position, then repeat, twisting to the left. Continue alternating for the allotted time.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mtpushups</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+
+	<exercise id="balancerowright"  name="Balance Row Right Side"> 	
+	        <picture>balancerow</picture>
+	        
+   			<detailed-description>Grab a dumbbell in your right hand and stand with your feet shoulder-width apart, knees slightly bent and your left hand placed behind your lower back. Bend forward at the hips as far as you can keep your natural lumbar curve. Take your left foot 6 inches off the floor and pull the dumbbell towards your right side, with your elbow finishing above and behind your torso.</detailed-description>
+   			<short-description>Dumbbell in right hand, stand with feet shoulder-width apart, knees slightly bent, left hand placed behind your lower back. Bend forward at the hips as far as you can keep your natural lumbar curve. Take your left foot 6 inches off the floor and pull the dumbbell towards your right side, with your elbow finishing above and behind your torso.</short-description>
+   			
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mbalancerow</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+
+	<exercise id="balancerowleft"  name="Balance Row Left Side"> 	
+	        <picture>balancerow</picture>
+	        
+            <detailed-description>Grab a dumbbell in your left hand and stand with your feet shoulder-width apart, knees slightly bent and your right hand placed behind your lower back. Bend forward at the hips as far as you can keep your natural lumbar curve. Take your right foot 6 inches off the floor and pull the dumbbell towards your left side, with your elbow finishing above and behind your torso.</detailed-description>
+            <short-description>Dumbbell in left hand, stand with feet shoulder-width apart, knees slightly bent, right hand placed behind your lower back. Bend forward at the hips as far as you can keep your natural lumbar curve. Take your right foot 6 inches off the floor and pull the dumbbell towards your left side, with your elbow finishing above and behind your torso.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mbalancerow</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+
+	<exercise id="reversecrunch"  name="Reverse Crunch"> 	
+	        <picture>reversecrunch</picture>
+	        
+   			<detailed-description>Lie on your back, with your arms at your side, palms down, and your hips and knees bent at 90 degrees and raised off the floor. Lifting: Contract your abs as you pull your thighs towards your chest, tilting your pelvis. Lowering: Slowly lower your legs to the starting position. Repeat. </detailed-description>
+   			<short-description>Lie on your back, with your arms at your side, palms down, and your hips and knees bent at 90 degrees and raised off the floor. Contract your abs as you pull your thighs towards your chest, tilting your pelvis. Then slowly lower your legs to the starting position. Repeat. </short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mreversecrunch</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+	
+	<exercise id="bothkneestochest"  name="Both Knees to Chest"> 	
+	        <picture>bothkneestochest</picture>
+	        
+   			<detailed-description>Lie on your back with your knees bent and feet flat on the floor. Grab under your knees and gently pull your knee towards your chest.</detailed-description>
+   			<short-description>Lie on your back with your knees bent and feet flat on the floor. Grab under your knees and gently pull your knee towards your chest.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>bothkneestochest</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+	
+	<exercise id="leftkneetochest"  name="Left Knee To Chest"> 	
+	        <picture>leftkneetochest</picture>
+	        
+   			<detailed-description>Lie on your back with your knees bent and feet flat on the floor. Grab under your left knee and gently pull your knee towards your chest.</detailed-description>
+   			<short-description>Lie on your back with your knees bent and feet flat on the floor. Grab under your left knee and gently pull your knee towards your chest.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mleftkneetochest</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+	
+	<exercise id="rightkneetochest"  name="Right Knee To Chest"> 
+	        <picture>rightkneetochest</picture>
+	        	
+   			<detailed-description>Lie on your back with your knees bent and feet flat on the floor. Grab under your right knee and gently pull your knee towards your chest.</detailed-description>
+   			<short-description>Lie on your back with your knees bent and feet flat on the floor. Grab under your right knee and gently pull your knee towards your chest.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mrightkneetochest</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+	
+	<exercise id="leftstraightlegstretch"  name="Left Straight Leg Stretch "> 	
+	        <picture>leftstraightlegstretch</picture>
+	        
+   			<detailed-description>Lie flat on your back, hands over your head and legs out straight. Bring your left leg straight up, then bring your hands under back of the knee. Gently pull the leg towards you.</detailed-description>
+   			<short-description>Lie flat on your back, hands over your head and legs out straight. Bring your left leg straight up and then your hands under back of the knee. Gently pull the leg towards you.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mleftlegstretch</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+			
+	<exercise id="rightstraightlegstretch"  name="Right Straight Leg Stretch "> 	
+	        <picture>rightstraightlegstretch</picture>
+	        
+   			<detailed-description>Lie flat on your back, hands over your head and legs out straight. Bring your right leg straight up, then bring your hands under the back of the right knee. Gently pull the leg towards you.</detailed-description>
+   			<short-description>Lie flat on your back, hands over your head and legs out straight. Bring your right leg straight up and your hands under the back of the right knee. Gently pull the leg towards you. </short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mrightlegstretch</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+		
+	<exercise id="recliningsidetwistleftside"  name="Reclining Side Twist - Left side"> 	
+	        <picture>recliningsidetwistleftside</picture>
+	        
+   			<detailed-description>Lie on your back with your knees bent and feet flat on the floor, making sure your body is not compressed but stretched out. With your hands out to your side making a t-shape with your upper body, carefully roll your legs towards your left side and slip your right shoulder blade down toward your hips to create space between the ear and shoulder. Breathe.</detailed-description>
+   			<short-description>On your back, knees bent and feet flat on the floor, place hands out to your side making a t-shape with your upper body. Gently roll your legs towards your left side.</short-description>
+
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mrecliningsidetwistleftside</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+	
+	<exercise id="recliningsidetwistrightside"  name="Reclining Side Twist - Right side"> 	
+            <picture>recliningsidetwistrightside</picture>
+
+   			<detailed-description>Lie on your back with your knees bent and feet flat on the floor, making sure your body is not compressed but stretched out. With your hands out to your side making a t-shape with your upper body, carefully roll your legs towards your right side and slip your left shoulder blade down toward your hips to create space between the ear and shoulder. Breath.</detailed-description>
+   			<short-description>On your back, knees bent and feet flat on the floor, place hands out to your side making a t-shape with your upper body. Gently roll your legs towards your right side.</short-description>   		
+   			
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mrecliningsidetwistrightside</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>	
+	</exercise>
+	
+	<exercise id="mountainpose"  name="Mountain Pose"> 	
+            <picture>mountainpose</picture>
+            
+            <detailed-description>Stand up with your feet close together. While breathing deeply, in and out, put your arms down at your sides, palms facing in. Keeping your shoulders relaxed and your spine straight, lift the crown of your head. Continue taking deep breaths, breathing in through your mouth and out through your nose.  Keep your shoulders out and down, stretching your chest.</detailed-description>
+            <short-description>Stand up. While breathing deeply, in and out, put your palms down at your sides. With shoulders relaxed and spine straight, lift the crown of your head.  Keep your shoulders out and down.</short-description>   		
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mmountainpose</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>		
+	</exercise>
+			
+	<exercise id="rtricepstretch"  name="Right Tricep Stretch">        
+            <picture>tricepstretch</picture>
+            
+   			<detailed-description>Stand up straight (no slouching!). Bend your right arm, so that your hand goes over your head, and reach down your spine. Use your left hand to further push your right elbow down. Feel the stretch in your right triceps. Keep your back straight throughout, and don't let your chin drop down.</detailed-description>
+   			<short-description>Stand up straight. Bend your right arm, so that your hand goes over your head, and reach down your spine. Use your left hand to further push your right elbow down. Feel the stretch in your right triceps.</short-description>
+   			
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mrtricepstretch</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>		
+	</exercise>
+	
+	<exercise id="ltricepstretch"  name="Left Tricep Stretch">
+            <picture>tricepstretchleft</picture>
+            
+  			<detailed-description>Stand up straight (no slouching!). Bend your left arm, so that your hand goes over your head, and reach down your spine. Use your right hand to further push your left elbow down. Feel the stretch in your left triceps. Keep your back straight throughout, and don't let your chin drop down.</detailed-description>
+  			<short-description>Stand up straight. Bend your left arm, so that your hand goes over your head, and reach down your spine. Use your right hand to further push your left elbow down. Feel the stretch in your left triceps. </short-description>
+   		
+    		<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mltricepstretch</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>		
+	</exercise>
+				
+	<exercise id="leftcalfstretch"  name="Left Calf Stretch">
+   		    <picture>calfstretch</picture>
+   		
+  			<detailed-description>Lean against a wall. With your left heel on the ground and left knee straight, bend your right knee 45 degrees and push against the wall. You should feel a gentle pulling on the muscle.</detailed-description>
+  			<short-description>Lean against a wall. With your left heel on the ground and left knee straight, bend your right knee 45 degrees and push against the wall. You should feel a gentle pulling on the muscle.</short-description>
+   		   			
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mlcalfstretch</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>		
+	</exercise>
+	
+	<exercise id="rightcalfstretch"  name="Right Calf Stretch">
+            <picture>calfstretchright</picture>
+            
+            <detailed-description>Lean against a wall. With your right heel on the ground and right knee straight, bend your left knee 45 degrees and push against the wall. You should feel a gentle pulling on the muscle.</detailed-description>
+            <short-description>Lean against a wall. With your right heel on the ground and right knee straight, bend your left knee 45 degrees and push against the wall. You should feel a gentle pulling on the muscle.</short-description>
+   		
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mrcalfstretch</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>		
+	</exercise>
+	
+	<exercise id="cheststretch"  name="Chest Stretch">
+            <picture>cheststretch</picture>
+            
+   			<detailed-description>Stand up straight; no slouching! Put both your hands on your lower back, fingers pointing down and elbows pointing to your sides. Keeping your hands in position, move both your elbows backwards as far as you can. Feel the stretch in your chest.</detailed-description>
+  			<short-description>Stand up straight. Put both your hands on your lower back, fingers pointing down and elbows pointing to your sides. Keeping your hands in position, move both your elbows backwards as far as you can. Feel the stretch in your chest.</short-description>
+   		
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mcheststretch</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">begin</sound>		
+	</exercise>
+	
+    <exercise id="rightglutestretch"  name="Right Glute Stretch">
+            <picture>glutestretch</picture>
+            
+<wfm/>   			<detailed-description>Lie on your back and bend one leg. Straighten your opposite leg and raise it towards the sky. Put the foot of your bent leg on the knee of your straight leg. Pull your straight leg towards your chest. Keep your head and spine in alignment. Change over leg and repeat.</detailed-description>
+<wfm/>   			<short-description>Lie on your back and bend one leg. Straighten your opposite leg and raise it towards the sky. Put the foot of your bent leg on the knee of your straight leg. Pull your straight leg towards your chest. Keep your head and spine in alignment. Change over leg and repeat.</short-description>
+   		
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mrglutestretch</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>		
+	</exercise>
+	
+<wfm/>	<exercise id="leftglutestretch"  name="Left Glute Stretch">
+            <picture>glutestretchleft</picture>
+            
+<wfm/>   			<detailed-description>Lie on your back and bend one leg. Straighten your opposite leg and raise it towards the sky. Put the foot of your bent leg on the knee of your straight leg. Pull your straight leg towards your chest. Keep your head and spine in alignment. Change over leg and repeat.</detailed-description>
+<wfm/>   			<short-description>Lie on your back and bend one leg. Straighten your opposite leg and raise it towards the sky. Put the foot of your bent leg on the knee of your straight leg. Pull your straight leg towards your chest. Keep your head and spine in alignment. Change over leg and repeat.</short-description>
+   		
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mlglutestretch</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>		
+	</exercise>
+	
+	<exercise id="lefthipflexerstretch"  name="Left Hip Flexor Stretch">
+            <picture>hipflexerstretch</picture>
+            
+   			<detailed-description>Bend your right leg in front of you, with your knee and hip parallel. Semi-straighten your left leg. Hang your arms at your sides for support. Keep your hips square on. Smoothly lower yourself forward until you feel a gentle pull at the top of the opposite thigh.</detailed-description>
+   			<short-description>Bend your right leg in front of you, knee and hip parallel. Semi-straighten your left leg. Hang your arms at your sides for support. Keep your hips square. Smoothly lower yourself forward until you feel a gentle pull at the top of opposite thigh.</short-description>
+   		
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mlhipflexerstretch</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">wrighteartoshoulder</sound>		
+	</exercise>
+	
+	<exercise id="righthipflexerstretch"  name="Right Hip Flexor Stretch">
+            <picture>hipflexerstretchright</picture>
+            
+   			<detailed-description>Bend your left leg in front of you, with your knee and hip parallel. Semi-straighten your left leg. Hang your arms at your sides for support. Keep the hips square on. Smoothly lower yourself forward until you feel a gently pull at the top of the opposite thigh.</detailed-description>
+   			<short-description>Bend your left leg in front of you, knee and hip parallel. Semi-straighten your left leg. Hang your arms at your sides for support. Keep your hips square. Smoothly lower yourself forward until you feel a gently pull at the top of opposite thigh.</short-description>
+   		
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>mrhipflexerstretch</preparing-male-sound>
+			<preparing-female-sound>begin</preparing-female-sound>
+   			
+   			<sound name="male">begin</sound>
+			<sound name="female">begin</sound>		
+	</exercise>
+	
+	<exercise id="mainworkout"  name="Main Workout"> 	
+            <picture>iconrunner</picture>
+            
+   			<detailed-description>Rest and prepare for the main workout. The exercises should be challenging while maintaining good form.</detailed-description>
+   			<short-description>Rest and prepare for the main workout. The exercises should be challenging while maintaining good form.</short-description>
+   	
+   			<time-active>20</time-active>
+  			<time-rest>0</time-rest>
+   	
+   			<preparing-male-sound></preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">mmainworkout</sound>
+			<sound name="female"></sound>	
+	</exercise>	
+	
+	<exercise id="coreworkout"  name="Core Workout"> 	
+            <picture>iconrunner</picture>
+            
+   			<detailed-description>Prepare for the CORE workout.</detailed-description>
+  			<short-description>Prepare for the CORE workout.</short-description>
+   	
+   			<time-active>20</time-active>
+  			<time-rest>1</time-rest>
+   	
+   			<preparing-male-sound></preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">mcoreworkout</sound>
+			<sound name="female"></sound>	
+	</exercise>	
+	
+	<exercise id="finishedCooldown"  name="Finished: Begin Cool Down"> 	
+            <picture>iconrunner</picture>
+            
+   			<detailed-description>You've finished! Cool down. Try "Minutes To Spare: 5 Minute Cooldown Stretch" for a great cool down routine.</detailed-description>
+   			<short-description>You've finished! Cool down. Try "Minutes To Spare: 5 Minute Cooldown Stretch" for a great cool down routine.</short-description>
+   	
+   			<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+   			<preparing-male-sound></preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">finished</sound>
+			<sound name="female">finished</sound>	
+	</exercise>
+	
+	
+	
+	<exercise id="shoulderRaises"  name="Shoulder Raises"> 	
+            <picture>bandshouldershrugs</picture>
+            
+   			<detailed-description>Stand on the middle of the resistance bands with a wide stance, with your arms straight at your side. Raise your shoulders towards your ears. Bring your shoulders back down slowly.</detailed-description>
+   			<short-description>Stand on the middle of the resistance bands with a wide stance, with your arms straight at your side. Raise your shoulders towards your ears. Bring your shoulders back down slowly.</short-description>
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>bandmshoulderraises</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">begin</sound>
+	</exercise>
+	
+	
+	<exercise id="resistanceShoulderPress"  name="Resisted Shoulder Press"> 	
+            <picture>bandshoulderpress</picture>
+            
+   			<detailed-description>Setup: Sit on a chair with your feet on the center of the resistance bands. Motion: Push the handles straight up above your head.</detailed-description>
+   			<short-description>Setup: Sit on a chair with your feet on the center of the resistance bands. Motion: Push the handles straight up above your head.</short-description>
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>bandmshoulderpress</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">begin</sound>
+	</exercise>
+	
+	<exercise id="bandUprightRow"  name="Upright Row"> 	
+            <picture>banduprightrow</picture>
+            
+   			<detailed-description>Setup: Stand on the center of the resistance band with your feet shoulder width apart. Motion: While bending your arms upward, raise the handles up to your shoulders.</detailed-description>
+   			<short-description>Setup: Stand on the center of the resistance band with your feet shoulder width apart. Motion: While bending your arms upward, raise the handles up to your shoulders.</short-description>
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>banduprightrow</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">begin</sound>
+	</exercise> ...
+	
+   <exercise id="floorShoulderRaise"  name="Shoulder Raise on Floor"> 	
+            <picture>bandfloorshoulderraise</picture>
+            
+   			<detailed-description>Setup: Secure the band at the side of the door at knee height. Lay on your back with your feet near the door. Motion: While keeping your arms slightly bent, raise handles upward away from the resistance and then bring them back down slowly.</detailed-description>
+   			<short-description>Setup: Secure the band at the side of the door at knee height. Lay on your back with your feet near the door. Motion: While keeping your arms slightly bent, raise handles upward away from the resistance and then bring them back down slowly.</short-description>
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>bandshoulderraisefloor</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">begin</sound>
+	</exercise>
+	
+	
+	<exercise id="floorBackPull"  name="Floor Back Pull"> 	
+            <picture>backfloorbackpull</picture>
+            
+   			<detailed-description>Setup: Anchor the bands at the top of the door. Motion: Kneel down on one foot facing away from the door approximately 4 feet away.  With your arms slightly bent, bring the handles down toward your knee and then slowly up.</detailed-description>
+   			<short-description>Setup: Anchor the bands at the top of the door. Motion: Kneel down on one foot facing away from the door approximately 4 feet away.  With your arms slightly bent, bring the handles down toward your knee and then slowly up.</short-description>
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>bandfloorbackpull</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">begin</sound>
+	</exercise>
+	
+	<exercise id="lay­ingPullover"  name="Laying Pullover"> 	
+            <picture>bandlaypullover</picture>
+            
+   			<detailed-description>Setup: Anchor the bands at the side of the door at knee height. Motion: Lay on your back with your head closest to the door.  Start by holding the handles above your head.  Slowly bring down then handles to your waist and then back up over your head.</detailed-description>
+   			<short-description>Setup: Anchor the bands at the side of the door at knee height. Motion: Lay on your back with your head closest to the door.  Start by holding the handles above your head.  Slowly bring down then handles to your waist and then back up over your head.</short-description>
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>bandlayingpullover</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">begin</sound>
+	</exercise>
+
+	<exercise id="seatedRow"  name="Seated Row"> 	
+            <picture>bandseatedrow</picture>
+            
+   			<detailed-description>Setup: Anchor the bands at the side of the door at knee height. Attach both sides of the handle to one band or hold two handles together. Motion: Sit facing the door approximately 3 feet away.  Start with your arms straight out and pull the handles toward your chest.  Make sure to keep good posture.</detailed-description>
+   			<short-description>Anchor the bands at the side of the door at knee height. Attach both sides of the handle to one band or hold two handles together. Sit facing the door about 3 feet away. Start with your arms straight out and pull the handles toward your chest. Make sure to keep good posture.</short-description>
+   			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+   	
+   			<preparing-male-sound>bandseatedrow</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">begin</sound>
+	</exercise>
+	
+	<exercise id="bandPreacherCurlRight"  name="Preacher Curl Right Arm"> 	
+            <picture>bandpreachercurls</picture>
+            
+   			<detailed-description>Setup: Attach both sides of the band(s) to one handle and step on the middle with one foot. Motion: With a slight lean forward and your legs slightly bent, hold the elbow of the work­ing arm in place.  Curl up the work­ing arm up against the resistance.  Bring it back down slowly.</detailed-description>
+   			<short-description>Attach both sides of the bands to one handle and step on the middle with one foot. With a slight lean forward on your legs slightly bent, hold the elbow of the working arm in place. Curl up the arm against the resistance. Bring it back down slowly.</short-description>
+   			<time-active>30</time-active>
+  			<time-rest>10</time-rest>
+   	
+   			<preparing-male-sound>bandrpreachercurl</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">begin</sound>
+	</exercise>
+	
+	<exercise id="banddchestpress"  name="Down­ward Chest Press"> 	
+            <picture>banddchestpress</picture>
+            
+   			<detailed-description>Setup: Secure the bands at the side of the door at chest height. Sit on a sta­bil­ity ball with your back fac­ing the door approx­i­mately three feet away. Motion: Start with your arms out and aligned with your shoul­ders. While keep­ing your back straight, bring the han­dles together toward the cen­ter of your body.</detailed-description>
+   			<short-description>Secure the bands at the side of the door at chest height. Sit on a sta­bil­ity ball with your back fac­ing the door approx­i­mately three feet away. Motion: Start with your arms out and aligned with your shoul­ders. While keep­ing your back straight, bring the han­dles together toward the cen­ter of your body.</short-description>
+   			<time-active>30</time-active>
+  			<time-rest>10</time-rest>
+   	
+   			<preparing-male-sound>bandrpreachercurl</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">begin</sound>
+	</exercise>
+	
+	<exercise id="bandlatpulldown"  name="Lat Pullover"> 	
+            <picture>bandlatpulldown</picture>
+            
+   			<detailed-description>Setup: Anchor the bands at the top of the door. Motion: Kneel down back facing the door. Hold both handles locked at your forehead and crunch down against the resistance until your elbows tap your knees. Then come right back up</detailed-description>
+   			<short-description>Setup: Anchor the bands at the top of the door. Motion: Kneel down back facing the door. Hold both handles locked at your forehead and crunch down against the resistance until your elbows tap your knees. Then come right back up</short-description>
+   			<time-active>30</time-active>
+  			<time-rest>10</time-rest>
+   	
+   			<preparing-male-sound>bandlatpullover</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">begin</sound>
+	</exercise>
+	
+
+	<exercise id="bandlatrevextension"  name="Reverse Lat Extensions"> 	
+            <picture>bandlatrevextension</picture>
+   			<detailed-description>Setup: Anchor the bands at the top of the door. Motion: Standing facing the door 3–4 feet away.  Keep a slight bend in your knees.  Start with your arms parallel to the floor and pull the handles down toward your hips until you arms are at your sides.  Then slowly bring them back up to parallel position.</detailed-description>
+   			<short-description>Setup: Anchor the bands at the top of the door. Motion: Standing facing the door 3–4 feet away.  Keep a slight bend in your knees.  Start with your arms parallel to the floor and pull the handles down toward your hips until you arms are at your sides.  Then slowly bring them back up to parallel position.</short-description>
+   			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+   	
+   			<preparing-male-sound>bandlatrevextension</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">begin</sound>
+	</exercise>
+	
+
+	<exercise id="bandchestfly"  name="Chest Fly"> 	
+            <picture>bandchestfly</picture>
+   			<detailed-description>Setup: Secure the bands at the side of the door at chest height. Motion: Stand approximately 4 feet away with you back facing the door. With a slight bend in your arms, bring both arms around toward the center of your body.</detailed-description>
+   			<short-description>Setup: Secure the bands at the side of the door at chest height. Motion: Stand approximately 4 feet away with you back facing the door. With a slight bend in your arms, bring both arms around toward the center of your body.</short-description>
+   			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+   	
+   			<preparing-male-sound>bandchestfly</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">begin</sound>
+	</exercise>
+	
+
+	<exercise id="bandpunchl"  name="Resisted Punch Left"> 	
+            <picture>bandpunch</picture>
+   			<detailed-description>Setup: Lock the band in at the side of the door at chest height.  Attach both sides of the band to one handle. Motion: Stand approximately four feet away with your back to the door and one leg in front.  With your working arm, push the handle forward in a punching motion.</detailed-description>
+   			<short-description>Setup: Lock the band in at the side of the door at chest height.  Attach both sides of the band to one handle. Motion: Stand approximately four feet away with your back to the door and one leg in front.  With your working arm, push the handle forward in a punching motion.</short-description>
+   			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+   	
+   			<preparing-male-sound>bandpunchleft</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">begin</sound>
+	</exercise>
+	
+	<exercise id="bandpunchr"  name="Resisted Punch Right"> 	
+            <picture>bandpunch</picture>
+   			<detailed-description>Setup: Lock the band in at the side of the door at chest height.  Attach both sides of the band to one handle. Motion: Stand approximately four feet away with your back to the door and one leg in front.  With your working arm, push the handle forward in a punching motion.</detailed-description>
+   			<short-description>Setup: Lock the band in at the side of the door at chest height.  Attach both sides of the band to one handle. Motion: Stand approximately four feet away with your back to the door and one leg in front.  With your working arm, push the handle forward in a punching motion.</short-description>
+   			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+   	
+   			<preparing-male-sound>bandpunchright</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">begin</sound>
+	</exercise>
+
+
+
+	<exercise id="bandrowl"  name="Left Arm Back Row"> 	
+            <picture>bandrow</picture>
+   			<detailed-description>Setup: Anchor the bands at the side of the door at chest height.  Attach both sides of the band to one handle. Motion: Stand fac­ing the door approximately 4 feet away.  With your legs slightly bent and your back straight, pull the handle with one toward your chest.</detailed-description>
+   			<short-description>Setup: Anchor the bands at the side of the door at chest height.  Attach both sides of the band to one handle. Motion: Stand facing the door approximately 4 feet away.  With your legs slightly bent and your back straight, pull the handle with one toward your chest.</short-description>
+   			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+   	
+   			<preparing-male-sound>bandleftarmbackrow</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">begin</sound>
+	</exercise>
+
+
+	<exercise id="bandrowr"  name="Right Arm Back Row"> 	
+            <picture>bandrow</picture>
+   			<detailed-description>Setup: Anchor the bands at the side of the door at chest height.  Attach both sides of the band to one handle. Motion: Stand fac­ing the door approximately 4 feet away.  With your legs slightly bent and your back straight, pull the handle with one toward your chest.</detailed-description>
+   			<short-description>Setup: Anchor the bands at the side of the door at chest height.  Attach both sides of the band to one handle. Motion: Stand facing the door approximately 4 feet away.  With your legs slightly bent and your back straight, pull the handle with one toward your chest.</short-description>
+   			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+   	
+   			<preparing-male-sound>bandrightarmbackrow</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">begin</sound>
+	</exercise>
+	
+	
+	<exercise id="warningWarmup"  name="Warmup Warning"> 	
+            <picture>iconrunner</picture>
+            
+   			<detailed-description>Warning! There is no warm up with this routine. Try "Just Minutes: 5 Minute Warmup" for a great quick warmup.</detailed-description>
+   			<short-description>Warning! There is no warm up with this routine. Try "Just Minutes: 5 Minute Warmup" for a great quick warmup.</short-description>
+   	
+   			<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+   			<preparing-male-sound></preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			
+   			<sound name="male">begin</sound>
+	</exercise>
+	
+	<exercise id="corkscrewPushup"  name="Corkscrew Pushup"> 	
+    	<picture>corkscrewpushup1</picture>
+        
+    	  <picture-list>
+            	<picture-entry>corkscrewpushup1</picture-entry>
+            	<picture-entry>corkscrewpushup2</picture-entry>
+            	<picture-entry>corkscrewpushup3</picture-entry>
+            	<picture-entry>corkscrewpushup4</picture-entry>
+        	</picture-list>
+        	
+        	
+    		<detailed-description>Set Up: Up or on knees, place hands slightly wider than shoulder width apart, hips raised. Execution: When lowering rotate your trunk to your left hand side and let the chest brush the hand the scoop over to your right side while rotating and straighten your right arm until extended. This equals one repetition.</detailed-description>
+   			<short-description>Up or on knees, put hands slightly wider than shoulder width apart with hips raised. Start lowering and rotate your trunk to your left hand side and let the chest brush the hand the scoop over to your right side while rotating and straighten your right arm until extended. Reverse.</short-description>
+   	
+   			<time-active>20</time-active>
+  			<time-rest>10</time-rest>
+   	
+   			<preparing-male-sound>corkscrewpushup</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+  
+  <exercise id="bandKneelingFlyes"  name="Band Kneeling Flyes"> 	
+    	<picture>iconrunner</picture>
+        
+    	  <picture-list>
+            	<picture-entry>rightshoulderstretch</picture-entry>
+            	<picture-entry>bandrow</picture-entry>
+            	<picture-entry>bandpunch</picture-entry>
+        	</picture-list>
+        	
+        	
+    		<detailed-description>Set Up: Bring both Feet together (sole to sole) and wrap the band around them, cross handles over to the opposite hand. Execution: Kneel up brace abdominals and glutes and squeeze both handles together.</detailed-description>
+   			<short-description>Bring both Feet together (sole to sole) and wrap the band around them, cross handles over to the opposite hands, Execution: Kneel up brace abdominals and glutes and squeeze both handles together.</short-description>
+   	
+   			<time-active>20</time-active>
+  			<time-rest>10</time-rest>
+   	
+   			<preparing-male-sound>bandpunchright</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+  
+  <exercise id="archerPushUps"  name="Archer Push Ups"> 	
+    	<picture>iconrunner</picture>
+        
+    	  <picture-list>
+            	<picture-entry>rightshoulderstretch</picture-entry>
+            	<picture-entry>bandrow</picture-entry>
+            	<picture-entry>bandpunch</picture-entry>
+        	</picture-list>
+        	
+        	
+    		<detailed-description>Set Up: Place one arm horizontally outwards with your opposite hand placed close to your upper chest with your arm fully extended. Execution: Lower your working arm (nearest the chest) down to parallel with your shoulder then press upwards back to extension. (1 rep)  </detailed-description>
+   			<short-description>Place one arm horizontally outwards with your opposite hand placed close to your upper chest with your arm fully extended. Execution:Lower your working arm (nearest the chest) down to parallel with your shoulder then press upwards back to extension. (1 rep)  </short-description>
+   	
+   			<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+   			<preparing-male-sound>bandpunchright</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+  
+   <exercise id="plankPunches"  name="Plank Punches"> 	
+    	<picture>plankpunches</picture>
+        	
+    		<detailed-description>Set Up: Hands and feet shoulder width apart keeping 3 points of contact at any one time. Brace abdominals, legs and glutes to maintain correct neutral alignment. Execution: Punch forward and back maintaining form. Change arms.</detailed-description>
+   			<short-description>Hands and feet shoulder width apart keeping 3 points of contact at any one time. Brace abdominals, legs and glutes to maintain correct neutral alignment. Punch forward and back maintaining form. Change arms.</short-description>
+   	
+   			<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+   			<preparing-male-sound>plankpunches</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+  
+    <exercise id="tricepsExtensionsL"  name="Tricep Extensions, Hold Left Arm"> 	
+    	<picture>tricepex</picture>
+         	
+    		<detailed-description>Bands or dumbells. Standing with dumbells over head, brace the abdominals and glutes. Lower left arm into a halfway down position and hold this, and let the other arm work the full range. Repeat. </detailed-description>
+   			<short-description>Bands or dumbells. Standing with dumbells over head, brace the abdominals and glutes. Lower left arm into a halfway down position and hold this, and let the other arm work the full range. Repeat.</short-description>
+   	
+   			<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+   			<preparing-male-sound>tricepholdleft</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+    
+      <exercise id="tricepsExtensionsR"  name="Tricep Extensions, Hold Right Arm"> 	
+    	<picture>tricepexr</picture>
+         	
+    		<detailed-description>Bands or dumbells. Standing with dumbells over head, brace the abdominals and glutes. Lower right arm into a halfway down position and hold this, and let the other arm work the full range. Repeat. </detailed-description>
+   			<short-description>Bands or dumbells. Standing with dumbells over head, brace the abdominals and glutes. Lower right arm into a halfway down position and hold this, and let the other arm work the full range. Repeat.</short-description>
+   	
+   			<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+   			<preparing-male-sound>tricepholdright</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+  
+    <exercise id="armBicepCurlWithHoldL"  name="Bicep Curl, Hold Left Arm"> 	
+    	<picture>bicepcurlleft</picture>
+         	
+    		<detailed-description>Bands or dumbells. Lie face up or stand. Grab dumbells with a palms facing upwards. Curl left arm up to the halfway point and hold, opposite arm completes a full curl up and down. </detailed-description>
+   			<short-description>Bands or dumbells. Lie face up or stand. Grab dumbells with a palms facing upwards. Curl left arm up to the halfway point and hold, opposite arm completes a full curl up and down. </short-description>
+   	
+   			<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+   			<preparing-male-sound>bicepwithholdl</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+  
+      <exercise id="armBicepCurlWithHoldR"  name="Bicep Curl, Hold Right Arm"> 	
+    	<picture>bicepcurlright</picture>
+         	
+    		<detailed-description>Bands or dumbells. Lie face up or stand. Grab dumbells with a palms facing upwards. Curl right arm up to the halfway point and hold, opposite arm completes a full curl up and down. </detailed-description>
+   			<short-description>Bands or dumbells. Lie face up or stand. Grab dumbells with a palms facing upwards. Curl right arm up to the halfway point and hold, opposite arm completes a full curl up and down. </short-description>
+   	
+   			<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+   			<preparing-male-sound>bicepwithholdr</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+  
+    
+    <exercise id="bicepFinisher"  name="Bicep Finisher"> 	
+    	<picture>bicepcurl</picture>
+         	
+    		<detailed-description>Bands or dumbells. As many curls as possible with good form. Lie face up or stand. Grab dumbells with a palms facing upwards. Complete a full curl up and down. Change to other arm. Complete as many as possible</detailed-description>
+   			<short-description>Bands or dumbells. As many curls as possible with good form. Lie face up or stand. Grab dumbells with a palms facing upwards. Complete a full curl up and down. Change to other arm. Complete as many as possible. </short-description>
+   	
+   			<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+   			<preparing-male-sound>bicepfinisher</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+  
+    
+    
+   <exercise id="tricepFrenchPress"  name="Tricep French Press"> 	
+    	<picture>frenchpress</picture>
+       
+    		<detailed-description>Set Up: Assume a plank position with shoulders directly over the elbows and hands placed together in a fist position with thumbs facing upwards and elbows bent, place the forehead as close to fist as possible. Execution: Maintaining good form drive hands into the floor until full extension is reached lower under control, that’s 1 repetition.</detailed-description>
+   			<short-description>Assume a plank position with shoulders directly over the elbows and hands placed together in a fist position with thumbs facing upwards and elbows bent, place the forehead as close to fist as possible. Maintaining good form drive hands into the floor until full extension is reached lower under control, that’s 1 repetition.</short-description>
+   	
+   			<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+   			<preparing-male-sound>tricepfrenchpress</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+  
+  <exercise id="bandBicepSpeedPumps "  name="Band Bicep Speed Pumps "> 	
+    	<picture>iconrunner</picture>
+        
+    	  <picture-list>
+            	<picture-entry>rightshoulderstretch</picture-entry>
+            	<picture-entry>bandrow</picture-entry>
+            	<picture-entry>bandpunch</picture-entry>
+        	</picture-list>
+        	
+    		<detailed-description>Set Up: Standing Upright place band under feet equal distance apart, palms face away. Elbows tucked into the side and shoulder blade pinched. Execution. As fast as possible with good form curl the weight up and down using the least amount of momentum necessary.</detailed-description>
+   			<short-description>Set Up: Standing Upright place band under feet equal distance apart, palms face away. Elbows tucked into the side and shoulder blade pinched. Execution. As fast as possible with good form curl the weight up and down using the least amount of momentum necessary.</short-description>
+   	
+   			<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+   			<preparing-male-sound>bandpunchright</preparing-male-sound>
+			<preparing-female-sound></preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+ 
+   <exercise id="highKneeTrunkRotations"  name="High Knees with Trunk Rotations"> 	
+    	<picture>highkneetrunkrotation1</picture>
+      		<detailed-description>With a high boxers guard elbows tight and into the ribs, sprint on the spot with high knees. Rotate the guard from left to right as fast as possible.</detailed-description>
+			<short-description>With a high elbows tight and into the ribs, sprint on the spot with high knees. Rotate the guard from left to right as fast as possible.</short-description>
+   	
+			 <picture-list>
+            	<picture-entry>highkneetrunkrotation1</picture-entry>
+            	<picture-entry>highkneetrunkrotation2</picture-entry>
+            	<picture-entry>highkneetrunkrotation3</picture-entry>
+        	</picture-list>
+        	
+   			<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+   			<preparing-male-sound>highkneewithtrunk</preparing-male-sound>
+			<preparing-female-sound>bandpunchright</preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+  
+   <exercise id="standingKneeTouches"  name="Standing Knee Touches "> 	
+    	<picture>standingkneetouches2</picture>
+      		<detailed-description>Take a wide stance and place your finger tips at the back of the head and elbows pointing outwards. Bring your right knee waist high, and rotate and flex your trunk until your left elbow meets your right knee. This completes 1 repetition. Change legs and elbows to continue.</detailed-description>
+			<short-description>Take a wide stance and place your finger tips at the back of the head and elbows pointing outwards. Bring your right knee waist high, and rotate and flex your trunk until your left elbow meets your right knee. This completes 1 repetition. Change legs and elbows to continue.</short-description>
+			
+	    	
+   			<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+   			<preparing-male-sound>standingkneetouches</preparing-male-sound>
+			<preparing-female-sound>bandpunchright</preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+  
+  
+   <exercise id="lyingRightSideRaise"  name="Lying right side raise "> 	
+    	<picture>lyingsideraisel</picture>
+      		<detailed-description>Lie on your left side, head and left shoulder on the floor, legs together and slightly in front of your torso. Place your right hand on your temple. Simultaneously raise your torso and legs upwards until you meet in the middle. Lower under control to complete 1 repetition</detailed-description>
+      		<short-description>Lie on your left side, head and left shoulder on the floor, legs together and slightly in front of your torso. Place your right hand on your temple. Simultaneously raise your torso and legs upwards until you meet in the middle. Lower under control to complete 1 repetition</short-description>
+      		    
+			 
+   			<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+   			<preparing-male-sound>lyingrightsideraise</preparing-male-sound>
+			<preparing-female-sound>bandpunchright</preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+    
+     <exercise id="lyingLeftSideRaise"  name="Lying left side raise "> 	
+    	<picture>lyingsideraise</picture>
+      		<detailed-description>Lie on your right side, head and right shoulder on the floor, legs together and slightly in front of your torso. Place your left hand on your temple. Simultaneously raise your torso and legs upwards until you meet in the middle. Lower under control to complete 1 repetition</detailed-description>
+      		<short-description>Lie on your right side, head and rigth shoulder on the floor, legs together and slightly in front of your torso. Place your left hand on your temple. Simultaneously raise your torso and legs upwards until you meet in the middle. Lower under control to complete 1 repetition.</short-description>
+      		    
+			 
+   			<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+   			<preparing-male-sound>lyingleftsideraise</preparing-male-sound>
+			<preparing-female-sound>bandpunchright</preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+  
+  
+  <exercise id="hipBridge"  name="Hip Bridge "> 	
+    	<picture>hipbridgetabletop1</picture>
+      		<detailed-description>Sit face up with legs bent at 90 degrees and arms straight down. Raise the hips up until your trunk is level with your knees.  </detailed-description>
+      		<short-description>Sit face up with legs bent at 90 degrees and arms straight down. Raise the hips up until your trunk is level with your knees.  </short-description>
+			 <picture-list>
+            	<picture-entry>hipbridgetabletop1</picture-entry>
+            	<picture-entry>hipbridgetabletop2</picture-entry>
+        	</picture-list>
+        	
+   			<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+   			<preparing-male-sound>hipbridge</preparing-male-sound>
+			<preparing-female-sound>bandpunchright</preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+ 
+   <exercise id="crunchWithLeftLegTuck"  name="Crunch with left Leg Tuck"> 	
+    	<picture>crunchwithlegtuck1</picture>
+    		<detailed-description>Lie face up with elbows resting across the chest and fingertips touching the shoulders. Pull one leg in and crunch up until elbow touch the thigh. Lower to complete 1 repetition, alternate leg tuck each repetitions.</detailed-description>
+      		<short-description>Lie face up with elbows resting across the chest and fingertips touching the shoulders. Pull one leg in and crunch up until elbow touch the thigh. Lower to complete 1 repetition, alternate leg tuck each repetitions.</short-description>
+      
+      		<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+  			 <picture-list>
+            	<picture-entry>crunchwithlegtuck1</picture-entry>
+            	<picture-entry>crunchwithlegtuck2</picture-entry>
+        	</picture-list>
+        	
+   			<preparing-male-sound>crunchleftlegtuck</preparing-male-sound>
+			<preparing-female-sound>bandpunchright</preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+  
+    <exercise id="crunchWithRightLegTuck"  name="Crunch with right Leg Tuck"> 	
+    	<picture>crunchwithlegtuck1</picture>
+    		<detailed-description>Lie face up with elbows resting across the chest and fingertips touching the shoulders. Pull one leg in and crunch up until elbow touch the thigh. Lower to complete 1 repetition, alternate leg tuck each repetitions.</detailed-description>
+      		<short-description>Lie face up with elbows resting across the chest and fingertips touching the shoulders. Pull one leg in and crunch up until elbow touch the thigh. Lower to complete 1 repetition, alternate leg tuck each repetitions.</short-description>
+      
+      		<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+  			 <picture-list>
+            	<picture-entry>crunchwithlegtuck1</picture-entry>
+            	<picture-entry>crunchwithlegtuck2</picture-entry>
+        	</picture-list>
+        	
+   			<preparing-male-sound>crunchrightlegtuck</preparing-male-sound>
+			<preparing-female-sound>bandpunchright</preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+  
+   
+   <exercise id="singleLegHipThrustsLeft"  name="Single Leg Hip Thrusts Left Leg"> 	
+    	<picture>singleleghipthrust2</picture>
+    		<detailed-description>Lying face up with head and shoulders and butt on the floor, place one leg in the air, and bend the supporting leg 90 degrees. Raise the butt up until level with the opposite leg.</detailed-description>
+      		<short-description>Lying face with up head and shoulders and butt on the floor, place one leg in the air, and bend the supporting leg 90 degrees. Raise the butt up until level with the opposite leg. Lower and repeat.</short-description>
+      		<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+  			 <picture-list>
+            	<picture-entry>singleleghipthrust</picture-entry>
+            	<picture-entry>singleleghipthrust2</picture-entry>
+        	</picture-list>
+        	
+   			<preparing-male-sound>singleleghipthrustsleft</preparing-male-sound>
+			<preparing-female-sound>bandpunchright</preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+   
+    <exercise id="singleLegHipThrustsRight"  name="Single Leg Hip Thrusts Right Leg"> 	
+    	<picture>singleleghipthrust2</picture>
+    		<detailed-description>Lying face up with head and shoulders and butt on the floor, place one leg in the air, and bend the supporting leg 90 degrees. Raise the butt up until level with the opposite leg. repeat 8-12 reps per leg.</detailed-description>
+      		<short-description>Lying face with up head and shoulders and butt on the floor, place one leg in the air, and bend the supporting leg 90 degrees. Raise the butt up until level with the opposite leg. Lower and repeat 8-12 reps per leg.</short-description>
+      		<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+  			 <picture-list>
+            	<picture-entry>singleleghipthrust</picture-entry>
+            	<picture-entry>singleleghipthrust2</picture-entry>
+        	</picture-list>
+        	
+   			<preparing-male-sound>singleleghipthrustsright</preparing-male-sound>
+			<preparing-female-sound>bandpunchright</preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+   
+    <exercise id="leaningSplitSquatLeft"  name="Leaning Split Squat Left Leg"> 	
+    	<picture>leaningsplitsquat3</picture>
+    		<detailed-description>Place your right foot 8-12 inches off the ground behind you and your front foot 2-3 feet in front of you. When lowering, allow a slight lean forward from the hips. Try to make a diagonal line from the back foot right through to the shoulder, and the foot tracks in line with the knee.</detailed-description>
+			<short-description>Place your right foot 8-12 inches off the ground behind you and your front foot 2-3 feet in front of you. When lowering, allow a slight lean forward from the hips. Try to make a diagonal line from the back foot right through to the shoulder, and the foot tracks in line with the knee.</short-description>
+			<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+  			 <picture-list>
+            	<picture-entry>leaningsplitsquat3</picture-entry>
+            	<picture-entry>leaningsplitsquat2</picture-entry>
+        	</picture-list>
+        	
+   			<preparing-male-sound>leaningsplitsquatleft</preparing-male-sound>
+			<preparing-female-sound>bandpunchright</preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+
+       <exercise id="leaningSplitSquatRight"  name="Leaning Split Squat Right Leg"> 	
+    	<picture>leaningsplitsquat3</picture>
+    		<detailed-description>Place your left foot 8-12 inches off the ground behind you and your front foot 2-3 feet in front of you. When lowering, allow a slight lean forward from the hips. Try to make back leg parallel with the working leg, and the foot tracks in line with the knee. 8-12 repetitions per leg.</detailed-description>
+			<short-description>Place your left foot 8-12 inches off the ground behind you and your front foot 2-3 feet in front of you. When lowering, allow a slight lean forward from the hips. Try to make back leg parallel with the working leg, and the foot tracks in line with the knee. 8-12 repetitions per leg.</short-description>
+			<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+  			 <picture-list>
+            	<picture-entry>leaningsplitsquat3</picture-entry>
+            	<picture-entry>leaningsplitsquat2</picture-entry>
+        	</picture-list>
+        	
+   			<preparing-male-sound>leaningsplitsquatright</preparing-male-sound>
+			<preparing-female-sound>bandpunchright</preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+    
+   
+    <exercise id="alternatingRearLunges"  name="Alternating Rear Lunges"> 	
+    	<picture>alternatingrearlunges2</picture>
+    		<detailed-description>Start in a standing position. Step back straighten one leg and place it as far behind you as comfortably possible. Then low and lean forward from the hips and bring both arms in front of you, get deep but under control. From there drive back up to the start position to complete 1 rep, change legs over to continue.</detailed-description>
+			<short-description>Start in a standing position. Step back straighten one leg and place it as far behind you as comfortably possible. Then low and lean forward from the hips and bring both arms in front of you, get deep but under control. From there drive back up to the start position to complete 1 rep, change legs over to continue.</short-description>
+			<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	
+  			 <picture-list>
+            	<picture-entry>alternatingrearlunges2</picture-entry>
+            	<picture-entry>alternatingrearlunges</picture-entry>
+        	</picture-list>
+        	
+   			<preparing-male-sound>alternatingrearlunges</preparing-male-sound>
+			<preparing-female-sound>bandpunchright</preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+   
+    <exercise id="grouchoWalk"  name="Groucho Walk"> 	
+    	<picture>grouchos3</picture>
+    		<detailed-description>Assume a Sumo stance position, feet wider than hip distance apart with feet pointing slightly outwards. Lower into a deep squat by sticking your butt back and your torso upright. Take little alternate steps 6 forward and 6 backwards, maintain foot and knee alignment throughout.</detailed-description>
+			<short-description>Assume a Sumo stance position, feet wider than hip distance apart with feet pointing slightly outwards. Lower into a deep squat by sticking your butt back and your torso upright. Take little alternate steps 6 forward and 6 backwards, maintain foot and knee alignment throughout.</short-description>
+    		<time-active>10</time-active>
+  			<time-rest>1</time-rest>
+   	    	
+   			<preparing-male-sound>grouchowalk</preparing-male-sound>
+			<preparing-female-sound>bandpunchright</preparing-female-sound>
+			<sound name="male">begin</sound>
+    </exercise>
+    
+   
+    
+
+    
+    
+    
+    
+    
+   
+   
+   
+</exercises>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <RelativeLayout 
+            android:id="@+id/completed_innerrelativelayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+   
+    <TextView
+        android:id="@+id/beginnerText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:text="Beginner"
+        android:background="@color/white1"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+    
+    <ListView 
+        android:id="@+id/beginnerList"
+        android:layout_width="wrap_content"
+        android:layout_height="0dip"
+        android:layout_weight="1" 
+        />
+    
+    <TextView
+        android:id="@+id/intermediateText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        
+        android:background="@color/white1"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        
+        android:text="Intermediate" />
+   
+   <ListView 
+        android:id="@+id/intermediateList"
+        android:layout_width="wrap_content"
+        android:layout_height="0dip"
+        android:layout_weight="1" 
+        />
+   
+   <TextView
+        android:id="@+id/advancedText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:background="@color/white1"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        
+        android:text="Advanced" />
+   
+   <ListView 
+        android:id="@+id/advancedList"
+        android:layout_width="wrap_content"
+        android:layout_height="0dip"
+        android:layout_weight="1" 
+        />
+   
+     <com.google.ads.AdView 
+          android:id="@+id/adView"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          ads:adUnitId="a14ed3385463551"
+          ads:adSize="BANNER"
+    	  ads:loadAdOnCreate="true"
+          />
+     
+       </RelativeLayout>
+    
+</ScrollView>

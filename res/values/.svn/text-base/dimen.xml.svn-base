@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="badgeWidth">160dp</dimen>
+    <dimen name="badgeHeight">200dp</dimen>
+    
+    <!--  badgeHeight == imageWindowHeight + textWindowHeight -->
+    <dimen name="imageWindowHeight">100dp</dimen>
+    <dimen name="textWindowHeight">60dp</dimen>
+    
+    <dimen name="imageWidth">80dp</dimen>
+    <dimen name="imageHeight">80dp</dimen>
+    
+    
+</resources>

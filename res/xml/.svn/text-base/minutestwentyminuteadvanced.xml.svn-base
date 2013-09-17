@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<routine name="20 Minute Advanced Workout" category="Minutes to Spare, Anywhere"> 
+   		<intro-description>Hard-core exercises. Starts with a light warm-up.</intro-description>
+    	<time>20 minutes</time>
+    	<level>Advanced</level>
+    	<requirements>Small space and Chair.</requirements>
+
+		<exercise id="marchingInPlace">
+			<time-active>30</time-active>
+  			<time-rest>5</time-rest>			
+		</exercise>
+
+		<exercise id="backSlaps">
+			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+	
+		<exercise id="frontpunches">
+			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+	
+		<exercise id="sidetosidearmslams">
+			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+
+		<exercise id="marchingInPlace">
+			<time-active>30</time-active>
+  			<time-rest>5</time-rest>			
+		</exercise>
+
+		<exercise id="jumpsquats">
+			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+		</exercise> 		
+	
+		<exercise id="marchingInPlace">
+			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+	
+		<exercise id="jumpsquats">
+			<time-active>30</time-active>
+  			<time-rest>0</time-rest>
+		</exercise>
+	
+		<!--  Main Workout -->
+		<exercise id="mainworkout">
+			<time-active>10</time-active>
+  			<time-rest>10</time-rest>
+		</exercise>
+	
+		<exercise id="rightleglunge">
+			<time-active>60</time-active>
+  			<time-rest>20</time-rest>
+		</exercise>
+		
+		<exercise id="leftleglunge">
+			<time-active>60</time-active>
+  			<time-rest>20</time-rest>
+		</exercise>
+	
+		<exercise id="chairhipextensions">
+			<time-active>60</time-active>
+  			<time-rest>20</time-rest>			
+		</exercise>
+	
+		<exercise id="staggeredpushup">
+			<time-active>60</time-active>
+  			<time-rest>20</time-rest>
+		</exercise>
+	
+		<exercise id="jumpsquats">
+			<time-active>60</time-active>
+  			<time-rest>0</time-rest>
+		</exercise>
+	
+		<!--  Core workout! -->
+		<exercise id="coreworkout">
+			<time-active>10</time-active>
+  			<time-rest>10</time-rest>
+		</exercise>
+	
+		<exercise id="rightsideplank">
+			<time-active>60</time-active>
+  			<time-rest>20</time-rest>			
+		</exercise>
+	
+		<exercise id="leftsideplank">
+			<time-active>60</time-active>
+  			<time-rest>20</time-rest>
+		</exercise>
+	
+		<exercise id="plankhold">
+			<time-active>60</time-active>
+  			<time-rest>20</time-rest>
+		</exercise>
+	
+		<exercise id="toetaps">
+			<time-active>60</time-active>
+  			<time-rest>0</time-rest>
+		</exercise>
+
+	 					
+</routine>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<routine name="15 Minute Intermediate Workout" category="Minutes to Spare, Anywhere"> 
+   		<intro-description>Mid-range exercises starting with a warm-up. </intro-description>
+    	<time>15 minutes</time>
+    	<level>Intermediate</level>
+    	<requirements>Chair; Small space.</requirements>
+        <image>plankhold</image>
+  
+		<exercise id="marchingInPlace">
+			<time-active>60</time-active>  
+			<time-rest>5</time-rest>
+		</exercise>
+		
+		<exercise id="backSlaps">
+			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+	
+		<exercise id="frontpunches">
+			<time-active>30</time-active> 
+  			<time-rest>5</time-rest>
+		</exercise>
+	
+		<exercise id="marchingInPlace">
+			<time-active>30</time-active> 
+  			<time-rest>5</time-rest>
+		</exercise>
+	
+		<exercise id="overheadpunches">
+			<time-active>30</time-active>  
+  			<time-rest>0</time-rest>
+		</exercise>
+		
+		<exercise id="mainworkout">
+			<time-active>5</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+	 	 
+		<exercise id="chairsquats">
+			 <time-active>45</time-active> 
+			<time-rest>25</time-rest>
+		</exercise>
+
+		<exercise id="rightleglunge">
+			 <time-active>45</time-active> 
+			<time-rest>25</time-rest>
+		</exercise>
+	 
+		<exercise id="leftleglunge">
+			<time-active>45</time-active> 
+			<time-rest>25</time-rest>
+		</exercise> 	
+		
+		<exercise id="chairhipextensions">
+			<time-active>45</time-active> 
+			<time-rest>25</time-rest>
+		</exercise>
+
+		<exercise id="pushups">
+			<time-active>45</time-active>
+			<time-rest>0</time-rest>
+		</exercise>
+	
+		<exercise id="coreworkout">
+			<time-active>15</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+
+		<exercise id="plankhold">
+			<time-active>45</time-active>  
+  			<time-rest>25</time-rest>
+		</exercise>
+
+		<exercise id="sidetosidearmslams">
+		<time-active>45</time-active> 
+  				<time-rest>25</time-rest>
+		</exercise>
+
+		<exercise id="plankhold">
+			<time-active>45</time-active>
+  				<time-rest>0</time-rest>
+		</exercise>		
+	 
+	
+</routine>

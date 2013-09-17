@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+	
+	 <com.s4.wyaw.dialogs.DashboardLayout
+	        xmlns:android="http://schemas.android.com/apk/res/android"
+	        android:orientation="vertical"
+	        android:layout_width="fill_parent"
+	        android:layout_height="0dp"
+	         android:layout_weight="1">
+	 
+	       <Button android:id="@+id/office_button"
+	            style="@style/DashboardButton"
+	           android:text="@string/office_workout"
+	            android:drawableTop="@drawable/dashboard_button_office" />
+	 
+	        <Button android:id="@+id/travel_workout_button"
+	            style="@style/DashboardButton"
+	            android:text="@string/travel_workout"
+	            android:drawableTop="@drawable/dashboard_button_travel" />
+	       
+	        <Button android:id="@+id/minutes_workout_button"
+	            style="@style/DashboardButton"
+	            android:text="@string/minutes_workout" 
+	            android:drawableTop="@drawable/dashboard_button_minutes" />    
+	 
+	       <Button android:id="@+id/someequipement_workout_button"
+	            style="@style/DashboardButton"
+	            android:text="@string/someequipement_workout"
+	            android:drawableTop="@drawable/dashboard_button_equipment" />  
+	        
+	       <Button
+	           android:id="@+id/latest_workout"
+	           style="@style/DashboardButton"
+	           android:drawableTop="@drawable/dashboard_button_add"
+	           android:text="@string/latest_workout" />
+	       
+	       <Button android:id="@+id/trophies_button"
+	            style="@style/DashboardButton"
+	            android:text="@string/trophies"
+	            android:drawableTop="@drawable/dashboard_award" />
+	    
+	   </com.s4.wyaw.dialogs.DashboardLayout>
+	 
+	 
+	 <!-- 
+	 
+	  <Button android:id="@+id/ad_button"
+	          style="@style/FooterBar"
+	           android:drawableTop="@drawable/ad_aylio" />
+	       -->
+	 
+	    <com.google.ads.AdView
+	        android:id="@+id/adView"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        ads:adSize="BANNER"
+	        ads:adUnitId="a14ed3385463551"
+	        ads:loadAdOnCreate="true"
+	        android:gravity="center_horizontal" />
+    	
+</LinearLayout>

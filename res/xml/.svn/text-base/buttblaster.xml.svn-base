@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<routine name="Butt Blaster" category="Latest"> 
+   		<intro-description>A great shoulder and back exercise using bands. For experienced trainers, repeat this circuit more then once.</intro-description>
+   	    <has-warmup>false</has-warmup>
+    	<time>13 minutes</time>
+    	<level>Advanced</level>
+    	<image>alternatingrearlunges2</image>
+    	<requirements>Space to lie down.</requirements>
+	
+	<exercise id="singleLegHipThrustsLeft">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+  			<goal>8-12</goal>
+    </exercise>
+    
+	<exercise id="singleLegHipThrustsRight">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+  			<goal>8-12</goal>
+ 
+ 	</exercise>
+    
+	<exercise id="leaningSplitSquatLeft">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+  			<goal>8-12</goal>
+  	</exercise>
+ 
+	<exercise id="leaningSplitSquatRight">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+ 			<goal>8-12</goal>
+ 	</exercise>
+    
+	<exercise id="alternatingRearLunges">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+    </exercise>
+    
+	<exercise id="grouchoWalk">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+    </exercise>
+    
+</routine>

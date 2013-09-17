@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads" 
+    android:id="@+id/completed_relativelayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#98AFC7">
+            
+    <!-- Exercise Title is on top -->
+    <TextView
+        android:id="@+id/explanation_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal|top"
+        android:layout_alignParentTop="true"
+        android:text="Exercise Explanation:"
+        android:textColor="#000000"
+        android:textSize="30sp"
+        android:layout_marginTop="20dip"  
+        android:textStyle="bold" 
+    />
+ 
+      <Button
+          android:id="@+id/trailer"
+          style="@style/FooterBar"
+          android:layout_alignParentBottom="true"
+          android:drawableTop="@drawable/ad_aylio" />
+
+    <!-- This ad is on the bottom.  We need to declare it here       -->
+    <!-- in order to frame the ScrollView (it must be declared prior -->
+    <!-- to the ScrollView.                                         
+    <com.google.ads.AdView 
+        android:id="@+id/trailer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ads:adUnitId="a14ed3385463551"
+        ads:adSize="BANNER"
+        ads:loadAdOnCreate="true"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+    /> -->
+    
+<!--  ads:testDevices="TEST_EMULATOR"  -->  
+
+    <!-- Put the long exercise description in a scroll bar in case it is -->
+    <!-- too long for the screen.                                        -->
+    <ScrollView
+        android:id="@+id/completed_scrollview"
+        android:layout_width="340dip"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/explanation_title"
+        android:layout_above="@id/trailer">
+
+        <!--  The app programmatically changes the text based on the -->
+        <!--  current exercise.                                      -->
+        <TextView
+            android:id="@+id/exercise_description"
+            android:padding="10dip"
+            android:gravity="center_horizontal|top"
+            
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Exercise Description Unavailable. Sorry. Please report error to the blue bay police department."
+            android:textColor="#FF000000"
+            android:textSize="24sp"
+        />
+            
+    </ScrollView>
+
+    <!--  This image is below the title to the right of the explanation -->
+    <ImageView
+        android:id="@+id/exercise_image"
+        android:layout_width="280dip"
+        android:layout_height="380dip"
+        android:layout_below="@id/explanation_title"
+        android:padding="10dip"            
+        android:gravity="center_horizontal|top"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/icon" 
+       />
+
+    <!--  This button is below the image and centered with it. -->
+    <Button
+        android:id="@+id/resumeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dip"
+        android:layout_below="@id/exercise_image"
+        android:layout_alignParentRight="true"
+        android:text="Resume Workout"
+        android:textColor="#FF000000"
+        android:textSize="26sp"
+        android:textStyle="bold" 
+    />
+
+</RelativeLayout>
+
+<!-- 
+
+<TextView
+    android:id="@+id/widget98"
+    android:layout_width="300dp"
+    android:layout_height="50dp"
+    android:gravity="left|bottom"
+    android:text="Watch an example:"
+    android:layout_x="10dp"
+    android:layout_y="330dp"
+    android:textColor="#FF000000"
+    android:textSize="12sp"
+    android:textStyle="italic"
+/>
+
+<TextView
+    android:id="@+id/exercise_video_url"
+    android:layout_width="300dp"
+    android:layout_height="50dp"
+    android:gravity="center_horizontal|bottom"
+    android:text="No Video Available"
+    android:layout_x="10dp"
+    android:layout_y="360dp"
+    android:textColor="#151B8D"
+    android:textSize="12sp"
+/>
+
+ -->

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<routine name="Dumbbells and Bench Intermediate" category="Some Equipment"> 
+   		<intro-description>A routine using just dumbbells and a bench. Starts with a light warm-up.</intro-description>
+    	<time>11 minutes</time>
+    	<level>Intermediate</level>
+    	<requirements>Dumbbells and Bench.</requirements>
+    	<image>deadlift</image>
+    	
+		<exercise id="marchingInPlace">
+			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+
+		<exercise id="backSlaps">
+			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+
+		<exercise id="sidesteps">
+			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+
+		<exercise id="backSlaps">
+			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+
+		<exercise id="overheadpunches">
+			<time-active>30</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+
+		<exercise id="marchingInPlace">
+			<time-active>30</time-active>
+  			<time-rest>0</time-rest>
+		</exercise>
+
+		<exercise id="mainworkout">
+			<time-active>10</time-active>
+  			<time-rest>10</time-rest>
+		</exercise>
+	 	
+		<exercise id="deadlift">
+			<time-active>35</time-active>
+  			<time-rest>10</time-rest>
+		</exercise>
+
+		<exercise id="rightleglunge">
+			<time-active>35</time-active>
+  			<time-rest>10</time-rest>
+		</exercise>
+
+		<exercise id="deadlift">
+			<time-active>35</time-active>
+  			<time-rest>10</time-rest>
+		</exercise>
+
+		<exercise id="leftleglunge">
+			<time-active>35</time-active>
+  			<time-rest>10</time-rest>
+		</exercise>
+
+		<exercise id="dumbbellchestpress">
+			<time-active>35</time-active>
+  			<time-rest>10</time-rest>
+		</exercise>
+
+		<exercise id="balancerowright">
+			<time-active>35</time-active>
+  			<time-rest>10</time-rest>
+		</exercise>
+
+		<exercise id="dumbbellchestpress">
+			<time-active>35</time-active>
+  			<time-rest>10</time-rest>
+		</exercise>
+
+		<exercise id="balancerowleft">
+			<time-active>35</time-active>
+  			<time-rest>10</time-rest>
+		</exercise>
+ 
+		<exercise id="plankhold">
+			<time-active>35</time-active>
+  			<time-rest>0</time-rest>
+		</exercise>
+	 
+	</routine>

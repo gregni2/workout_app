@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads" 
+    android:id="@+id/completed_relativelayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#98AFC7">
+ 	
+    <TextView
+     android:id="@+id/explanation_title"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:gravity="center_horizontal|top"
+     android:layout_alignParentTop="true"
+     android:text="Exercise Explanation:"
+     android:textColor="#FF000000"
+     android:textAppearance="?android:attr/textAppearanceMedium"
+     android:layout_marginTop="20dip"  
+     android:textStyle="bold" 
+ 	/>
+  
+    <com.google.ads.AdView 
+        android:id="@+id/trailer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ads:adUnitId="a14ed3385463551"
+        ads:adSize="BANNER"
+        ads:loadAdOnCreate="true"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        />
+    
+       <Button
+	     android:id="@+id/resumeButton"
+	     android:layout_width="match_parent"
+	     android:layout_height="wrap_content"
+	     android:layout_above="@+id/trailer"
+	     android:text="Resume Workout"
+	     android:textColor="#FF000000"
+	     android:textSize="16sp"
+	     android:textStyle="bold" />  
+  
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/resumeButton"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/explanation_title"
+        android:overScrollMode="ifContentScrolls" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dip"
+                android:orientation="vertical" >
+
+	                <ImageButton
+	                    android:id="@+id/imageButton0"
+	                    android:layout_width="wrap_content"
+	                    android:layout_height="wrap_content"
+	                    android:src="@drawable/rlsidebends" />
+
+	               
+	                <ImageButton
+	                    android:id="@+id/imageButton1"
+	                    android:layout_width="wrap_content"
+	                    android:layout_height="wrap_content"
+	                    android:src="@drawable/backslaps" />
+	
+	                 <ImageButton
+	                    android:id="@+id/imageButton2"
+	                    android:layout_width="wrap_content"
+	                    android:layout_height="wrap_content"
+	                    android:src="@drawable/anklerollsclockwise" />
+	                 
+	                 <ImageButton
+	                    android:id="@+id/imageButton3"
+	                    android:layout_width="wrap_content"
+	                    android:layout_height="wrap_content"
+	                    android:src="@drawable/anklerollsclockwise" />
+	                 
+                    <TextView
+			            android:id="@+id/exercise_description"
+			            android:layout_width="match_parent"
+			            android:layout_height="wrap_content"
+			            android:text="@string/exercise_desc_text"
+			            android:textColor="#FF000000"
+			            android:textSize="14sp" />
+                
+            </LinearLayout>
+
+    </ScrollView>
+    
+    
+
+     
+</RelativeLayout>

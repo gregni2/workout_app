@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads" 
+    android:id="@+id/completed_outerrelativelayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+    
+    <!-- First item in relative view -->
+    <TextView
+        android:id="@+id/completed_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"        
+        android:text="CONGRATULATIONS!"
+        android:gravity="center_horizontal|top"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:textColor="#FF000000"
+    />
+    
+        <com.google.ads.AdView 
+        android:id="@+id/completed_adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ads:adUnitId="a14ed3385463551"
+        ads:adSize="BANNER"
+        ads:loadAdOnCreate="true"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        ads:testDevices="TEST_EMULATOR"
+    />
+	  
+    <!--  Last item in relative view
+
+    <Button android:id="@+id/completed_bandad"
+	           style="@style/FooterBar"
+	           
+        	android:layout_alignParentBottom="true"
+	           android:drawableTop="@drawable/ad_aylio" />
+  
+     -->
+    
+    <!-- Buttons go right above ad -->
+    <Button
+        android:id="@+id/completed_returnbutton"
+        android:layout_width="match_parent"
+        android:layout_height="70dip"
+        android:text="Return"
+        android:onClick="done" 
+        android:layout_above="@id/completed_adView"
+    />
+    
+    <Button
+        android:id="@+id/cooldown"
+        android:layout_width="match_parent"
+        android:layout_height="70dip"
+        android:layout_above="@+id/completed_returnbutton"
+        android:onClick="cooldownRoutine"
+        android:text="Go Cooldown Routine" />
+    
+    <!-- 
+    <Button
+        android:id="@+id/completed_trophybutton"
+        android:layout_width="140dip"
+        android:layout_height="70dip"
+        android:text="See Trophies"
+        android:onClick="seeTrophies" 
+        android:layout_above="@id/completed_adView"
+        android:layout_alignParentRight="true"
+    />
+    -->
+    <!-- Scroll View is between title and ads -->
+    <ScrollView
+        android:id="@+id/completed_scrollview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/completed_title"
+        android:layout_above="@id/cooldown">
+        
+        <RelativeLayout 
+            android:id="@+id/completed_innerrelativelayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView 
+                android:id="@+id/completed_body_start"
+                android:layout_width="match_parent" 
+                android:layout_height="wrap_content"
+                android:text="You completed the routine" 
+                android:gravity="center_horizontal|top"
+                android:layout_marginTop="20dip" 
+                android:textSize="20sp"
+                android:textStyle="bold" 
+                android:textColor="#FF000000"
+                android:layout_below="@id/completed_title"
+                android:layout_centerHorizontal="true" 
+            />
+
+            <TextView 
+                android:id="@+id/completed_body_name"
+                android:layout_width="match_parent" 
+                android:layout_height="wrap_content"
+                android:text=" " 
+                android:layout_marginBottom="10dip" 
+                android:gravity="center_horizontal|top"
+                android:textSize="20sp" 
+                android:textStyle="bold" 
+                android:textColor="#FF000000"
+                android:layout_below="@id/completed_body_start" 
+            />
+
+            <!-- More will be added in code -->
+
+
+
+        </RelativeLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

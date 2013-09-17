@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight"    
+    android:padding="6dip">
+    
+    <!--  The award -->
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_height="50dp"
+        android:layout_width="36dp"
+        
+        android:layout_marginRight="5dp"
+        
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+        
+        android:contentDescription="@string/myaward"
+        android:src="@drawable/nomedal" />
+
+     <TextView
+        android:id="@+id/topLineFirst"
+        
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        
+        android:layout_toRightOf="@id/icon"
+        android:layout_marginBottom="5dp"
+        
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignWithParentIfMissing="true"
+                
+        android:textColor="#FFFFFF"        
+                
+        android:gravity="center_vertical"
+        android:text="@string/myapp" />
+    
+    <TextView  
+        android:id="@+id/bottomLine"
+
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        
+        android:layout_below="@id/topLineFirst"
+        android:layout_toRightOf="@id/icon"
+        
+        android:layout_alignParentRight="true"
+        
+        android:textColor="#3299CC"
+        
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:text="@string/myaward" />
+    
+</RelativeLayout>
+
+
+        <!--  android:layout_alignParentBottom="true"  -->

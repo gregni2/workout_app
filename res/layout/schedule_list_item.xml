@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight"    
+    android:padding="6dip">
+    
+    <!--  The award -->
+
+    <TextView
+        android:id="@+id/timeText"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="10dp"
+        android:gravity="center|center_vertical"
+        
+        android:textAppearance="?android:attr/textAppearanceLarge"
+         android:textColor="?android:attr/textColorPrimary" 
+      
+        android:text="9:00am" />
+
+     <TextView
+        android:id="@+id/topLineFirst"
+        
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        
+        android:layout_toRightOf="@id/timeText"
+        
+        
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignWithParentIfMissing="true"
+                
+       android:textAppearance="?android:attr/textAppearanceMedium"
+       android:textColor="?android:attr/textColorSecondary" 
+                
+        android:gravity="center_vertical"
+        android:text="Application Name" />
+    
+</RelativeLayout>

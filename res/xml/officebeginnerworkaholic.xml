@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<routine name="Beginner Workaholic Workout" category="Office Workout"> 
+   		<intro-description>For those stuck at work who still want to be healthy:  a longer workout in a small space.</intro-description>
+    	<time>10 minutes</time>
+    	<level>Beginner</level>
+    	<requirements>Small space</requirements>
+  		<image>plankhold</image>
+  
+    	<exercise id="marchingInPlace">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+		</exercise>
+		
+		<exercise id="torsotwists">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+		</exercise>
+		
+		<exercise id="plankknees">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+		</exercise>
+		
+		<exercise id="leftsideplanknees">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+		</exercise>
+
+		<exercise id="rightsideplanknees">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+		</exercise>
+
+		<exercise id="toetaps">
+			<time-active>40</time-active>
+  			<time-rest>0</time-rest>
+		</exercise>
+		
+</routine>

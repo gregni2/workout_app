@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+    <ListView 
+        android:layout_width="wrap_content"
+        android:layout_height="0dip"
+        android:layout_weight="1" 
+        android:id="@android:id/list"></ListView>
+    
+    <LinearLayout
+        android:id="@+id/progress_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center_vertical" >
+
+    <Button
+        android:id="@+id/trophy_levelbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:background="#808080"
+        android:gravity="center_vertical"
+        android:text=" Level: Homebody "
+        android:textColor="#FFFFFF" />
+        
+       <com.s4.wyaw.dialogs.TextProgressBar
+           android:id="@+id/trophy_progressbar"
+           style="?android:attr/progressBarStyleHorizontal"
+           android:layout_width="fill_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginBottom="10dp"
+           android:layout_marginTop="5dp"
+           android:clickable="true"
+           android:max="100"
+           android:textColor="#FFFFFF"
+           android:progress="0" />
+       
+     </LinearLayout>
+    
+    <com.google.ads.AdView 
+          android:id="@+id/adView"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          ads:adUnitId="a14ed3385463551"
+          ads:adSize="BANNER"
+    	  ads:loadAdOnCreate="true"
+          />
+    
+ <!-- 
+	<Button android:id="@+id/ad_trophy_button"
+	          style="@style/FooterBar"
+	           android:drawableTop="@drawable/ad_aylio" />
+	            -->
+    
+          
+</LinearLayout>

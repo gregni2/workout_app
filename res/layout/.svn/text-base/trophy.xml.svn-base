@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+    
+    <!-- First item in relative view -->
+    <TextView
+        android:id="@+id/trophy_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"        
+        android:text="Trophy Shelf"
+        android:gravity="center_horizontal|top"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:textColor="#FF000000"
+    />
+    
+    
+    <!--  Last item in relative view 
+     <com.google.ads.AdView 
+        android:id="@+id/trophy_adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ads:adUnitId="a14ed3385463551"
+        ads:adSize="BANNER"
+        ads:loadAdOnCreate="true"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        ads:testDevices="TEST_EMULATOR"
+    />
+
+    
+    
+    <ScrollView
+        android:id="@+id/trophy_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/trophy_title"
+        android:layout_above="@id/trophy_adView">
+        
+        <RelativeLayout 
+            android:id="@+id/trophy_innerrelativelayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        
+        </RelativeLayout>
+    </ScrollView> -->
+</RelativeLayout>

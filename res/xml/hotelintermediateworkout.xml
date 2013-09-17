@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<routine name="Hotel Room Intermediate Workout" category="Travel"> 
+   		<intro-description>A great workout to keep yourself in shape even on the road.</intro-description>
+    	<time>15 minutes</time>
+    	<level>Intermediate</level>
+    	<requirements>Chair; Small space; Wall.</requirements>
+		<image>jumpsquats</image>
+  
+		<exercise id="marchingInPlace"> 	
+			<time-active>25</time-active>
+			<time-rest>5</time-rest>
+   		</exercise>	
+
+		<exercise id="sidesteps"> 	
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>	
+
+		<exercise id="backSlaps"> 	
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>	
+
+		<exercise id="frontpunches"> 	
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>	
+
+		<exercise id="marchingInPlace"> 	
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>	
+   		
+		<exercise id="sidesteps"> 	
+			<time-active>25</time-active>
+			<time-rest>0</time-rest>
+   		</exercise>	
+
+		<exercise id="mainworkout"> 	
+			<time-active>15</time-active>
+			<time-rest>15</time-rest>
+   		</exercise>	
+ 
+		<exercise id="chairsquats"> 	
+			<time-active>35</time-active>
+  			<time-rest>10</time-rest>
+   		</exercise>	
+
+		<exercise id="staggeredpushup"> 	
+			<time-active>35</time-active>
+  			<time-rest>10</time-rest>
+   		</exercise>	
+   
+		<exercise id="chairsquats"> 	
+			<time-active>35</time-active>
+  			<time-rest>10</time-rest>
+   		</exercise>	
+   		
+		<exercise id="staggeredpushup"> 	
+			<time-active>35</time-active>
+  			<time-rest>10</time-rest>
+   		</exercise>	
+   		
+		<exercise id="chairhipextensions"> 	
+			<time-active>35</time-active>
+  			<time-rest>10</time-rest>
+   		</exercise>		
+   		
+   		<exercise id="chairhipextensions"> 	
+			<time-active>35</time-active>
+  			<time-rest>10</time-rest>
+   		</exercise>		
+   
+   		<exercise id="reversecrunch"> 	
+			<time-active>35</time-active>
+  			<time-rest>35</time-rest>
+   		</exercise>		
+   	
+   		<exercise id="jumpsquats"> 	
+			<time-active>35</time-active>
+  			<time-rest>10</time-rest>
+   		</exercise>		
+   		
+   		<exercise id="wallyraises"> 	
+			<time-active>35</time-active>
+			<time-rest>10</time-rest>
+   		</exercise>		
+   		
+   		<exercise id="jumpsquats"> 	
+			<time-active>35</time-active>
+  			<time-rest>10</time-rest>
+   		</exercise>		
+   		
+   		<exercise id="wallyraises"> 	
+			<time-active>35</time-active>
+  			<time-rest>10</time-rest>
+   		</exercise>		
+
+   		<exercise id="rightsideplank"> 	
+			<time-active>35</time-active>
+  			<time-rest>10</time-rest>
+   		</exercise>		
+   		
+   		<exercise id="leftsideplank"> 	
+			<time-active>35</time-active>
+			<time-rest>0</time-rest>
+   		</exercise>		
+
+</routine>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<routine name="Arm and Chest Blast" category="Latest and Some Equipment"> 
+   		<intro-description>Fantastic workout for upper body. Also fantastically hard for the dedicated wherever workouter!</intro-description>
+   	    
+   	    <list-description>This is for the table view description!</list-description> 	<!--  NEW -->
+    	
+    	<has-warmup>false</has-warmup>
+    	
+    	<time>8 minutes</time>
+    	
+    	<level>Advanced</level>
+    	
+    	<image>tricepex</image> 
+    	
+    	<requirements>Small space, bands or dumbells.</requirements>
+	
+		<exercise id="corkscrewPushup">
+		    <time-active>45</time-active>
+  				<time-rest>10</time-rest>
+  				<goal>(Goal 6-10 Reps)</goal>
+ 		</exercise>
+		
+		<exercise id="dumbbellchestfly">
+		   	<time-active>45</time-active> 
+  				<time-rest>10</time-rest>
+  				<goal>(Goal 6-10 Reps)</goal>
+ 		</exercise>
+		
+		<exercise id="pushups">
+		     	<time-active>45</time-active>	
+		     	<time-rest>10</time-rest>
+  				<goal>(Goal 6-10 Reps)</goal>
+ 		</exercise>
+		
+		<exercise id="plankPunches">
+		 	    <time-active>45</time-active>
+  		   		<time-rest>10</time-rest>
+  				<goal>(Goal 15-20 Reps)</goal>
+ 		</exercise>
+		
+		<exercise id="tricepsExtensionsL">
+		      	<time-active>30</time-active>
+  		    	<time-rest>10</time-rest>
+  				<goal>(Goal 5-10 Reps)</goal>
+  		</exercise>
+		
+		<exercise id="tricepsExtensionsR">
+		      	<time-active>30</time-active>
+  		    	<time-rest>10</time-rest>
+  				<goal>(Goal 5-20 Reps)</goal>
+  		</exercise>
+		
+		<exercise id="armBicepCurlWithHoldL">
+		    	<time-active>45</time-active>
+  				<time-rest>10</time-rest>
+  				<goal>(Goal 6-10 Reps)</goal>
+  				<!--  between 6-10 reps on each arm -->
+		 </exercise>
+		 
+		<exercise id="armBicepCurlWithHoldR">
+		    	<time-active>45</time-active>
+  				<time-rest>10</time-rest>
+  				<goal>(Goal 6-10 Reps)</goal>
+  				<!--  between 6-10 reps on each arm -->
+		 </exercise>
+		
+		<exercise id="tricepFrenchPress">
+		    	<time-active>45</time-active>
+  				<time-rest>10</time-rest>
+  				<goal>(Goal 6-10 Reps)</goal>
+  			
+		</exercise>
+		
+		<exercise id="bicepFinisher">
+		    	<time-active>45</time-active>
+  				<time-rest>0</time-rest>
+  				<goal>(Goal reps until tired)</goal>
+  				<!--  As many curls as possible with good form -->
+	    	</exercise>
+		
+	</routine>
+
+ 

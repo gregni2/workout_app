@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<routine name="10 Minute Beginner Workout" category="Minutes to Spare, Anywhere"> 
+   		<intro-description>Gentle "body wake-up" exercises. Start with a gentle warm-up.</intro-description>
+    	<time>10 minutes</time>
+    	<level>Beginner</level>
+    	<image>chairhipextensions</image>
+    	<requirements>Chair or Bed; Small space; Clear wall area.</requirements>
+
+		<exercise id="marchingInPlace">
+			<time-active>30</time-active>
+  			<time-rest>10</time-rest>  			
+		</exercise> 	
+		
+		<exercise id="sidesteps">
+			<time-active>30</time-active>
+  			<time-rest>10</time-rest>
+ 	   </exercise>
+		
+		<exercise id="backSlaps">
+			<time-active>30</time-active>
+  			<time-rest>10</time-rest>
+		</exercise>
+		
+		<exercise id="frontpunches">
+			<time-active>30</time-active>
+  			<time-rest>10</time-rest>
+		</exercise>
+
+		<exercise id="sidesteps">
+			<time-active>50</time-active>
+  			<time-rest>0</time-rest>
+		</exercise>
+		
+		<exercise id="mainworkout">
+			<time-active>10</time-active>
+  			<time-rest>5</time-rest>	
+		</exercise>
+	 	 		 	 	
+		<exercise id="leftleglunge">
+			<time-active>30</time-active>
+  			<time-rest>30</time-rest>
+		</exercise>
+
+		<exercise id="rightleglunge">
+			<time-active>30</time-active>
+  			<time-rest>30</time-rest>
+		</exercise>
+	 
+		<exercise id="chairsquats">
+			<time-active>30</time-active>
+  			<time-rest>30</time-rest>
+		</exercise> 	
+		
+		<exercise id="chairhipextensions">
+			<time-active>30</time-active>
+  			<time-rest>30</time-rest>
+		</exercise>
+		
+		<exercise id="wallpushups">
+			<time-active>30</time-active>
+  			<time-rest>30</time-rest>
+		</exercise>
+		
+		<exercise id="wallyraises">
+			<time-active>30</time-active>
+  			<time-rest>0</time-rest>
+		</exercise>
+		
+		
+</routine>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<routine name="Good Night Bed Stretch" category="Travel"> 
+   		<intro-description>Give yourself a hug. Great wind-down stretch you can do in bed.</intro-description>
+    	<time>5 minutes</time>
+    	<level>Beginner</level>
+    	<image>leftshoulderstretch</image>
+    	<requirements>Small space to lie down.</requirements>
+	
+		<exercise id="mountainpose">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+   	
+    	<exercise id="rightEarStretch"> 	
+   			<time-active>25</time-active>
+  			<time-rest>5</time-rest> 
+  		</exercise>	
+    
+    	<exercise id="leftEarStretch"> 	
+   			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+	
+		<exercise id="leftkneetochest">
+			<time-active>35</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+
+		<exercise id="rightkneetochest">
+			<time-active>35</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+
+		<exercise id="bothkneestochest">
+			<time-active>35</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+
+		<exercise id="recliningsidetwistleftside">
+			<time-active>35</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+
+		<exercise id="recliningsidetwistrightside">
+			<time-active>35</time-active>
+  			<time-rest>0</time-rest>
+		</exercise>
+	
+	</routine>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<routine name="Ab Blast" category="Latest"> 
+   		<intro-description>Give your abs a killer workout in just a few minutes!</intro-description>
+    	<time>7 minutes</time>
+    	<level>Intermediate</level>
+    	<has-warmup>false</has-warmup>
+    	<image>lyingsideraise</image>
+    	<requirements>Small space.</requirements>
+	
+		<exercise id="highKneeTrunkRotations">
+		 	    <time-active>30</time-active>
+		 	    <time-rest>10</time-rest>
+  				<goal>As fast as possible with high knees.</goal>
+ 		</exercise>
+
+		<exercise id="standingKneeTouches">
+		 	    <time-active>30</time-active>
+  		   		<time-rest>10</time-rest>
+  				<goal>(Goal 15-20 Reps)</goal>
+ 		</exercise>
+	
+		<exercise id="lyingRightSideRaise">
+		 	    <time-active>30</time-active>
+  		   		<time-rest>5</time-rest>
+  				<goal>(Goal 10-15 Reps)</goal>
+ 		</exercise>
+ 		
+		<exercise id="lyingLeftSideRaise">
+		 	    <time-active>30</time-active>
+  		   		<time-rest>5</time-rest>
+  				<goal>(Goal 10-15 Reps)</goal>
+ 		</exercise>
+		
+		<exercise id="hipBridge">
+		 	    <time-active>30</time-active>
+  		   		<time-rest>5</time-rest>
+  				<goal>(Goal 10-12 Reps)</goal>
+ 		</exercise>
+		
+		<exercise id="crunchWithRightLegTuck">
+		 	    <time-active>30</time-active>
+  		   		<time-rest>5</time-rest>
+  				<goal>(Goal 15-20 Reps)</goal>
+ 		</exercise>
+ 		
+		<exercise id="crunchWithLeftLegTuck">
+		 	    <time-active>30</time-active>
+  		   		<time-rest>5</time-rest>
+  				<goal>(Goal 15-20 Reps)</goal>
+ 		</exercise>
+		
+		<exercise id="plankPunches">
+		 	    <time-active>30</time-active>
+  		   		<time-rest>5</time-rest>
+  				<goal>(Goal 15-20 Reps)</goal>
+ 		</exercise>
+
+		
+		<exercise id="highKneeTrunkRotations">
+		 	    <time-active>30</time-active>
+		 		<time-rest>5</time-rest>
+  				<goal>As fast as possible with high knees.</goal>
+ 		</exercise>
+
+		<exercise id="standingKneeTouches">
+		 	    <time-active>30</time-active>
+  		   		<time-rest>10</time-rest>
+  				<goal>(Goal 15-20 Reps)</goal>
+ 		</exercise>
+	
+		<exercise id="lyingRightSideRaise">
+		 	    <time-active>30</time-active>
+  		   		<time-rest>5</time-rest>
+  				<goal>(Goal 10-15 Reps)</goal>
+ 		</exercise>
+ 		
+		<exercise id="lyingLeftSideRaise">
+		 	    <time-active>30</time-active>
+  		   		<time-rest>5</time-rest>
+  				<goal>(Goal 10-15 Reps)</goal>
+ 		</exercise>
+		
+		<exercise id="hipBridge">
+		 	    <time-active>30</time-active>
+  		   		<time-rest>5</time-rest>
+  				<goal>(Goal 10-12 Reps)</goal>
+ 		</exercise>
+		
+		<exercise id="crunchWithRightLegTuck">
+		 	    <time-active>30</time-active>
+  		   		<time-rest>5</time-rest>
+  				<goal>(Goal 15-20 Reps)</goal>
+ 		</exercise>
+ 		
+		<exercise id="crunchWithLeftLegTuck">
+		 	    <time-active>30</time-active>
+  		   		<time-rest>5</time-rest>
+  				<goal>(Goal 15-20 Reps)</goal>
+ 		</exercise>
+		
+		<exercise id="plankPunches">
+		 	    <time-active>30</time-active>
+  		   		<goal>(Goal 15-20 Reps)</goal>
+ 		</exercise>
+		
+</routine>

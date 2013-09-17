@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<routine name="Stuck-in-Seat Stretch" category="Travel"> 
+   		<intro-description>Stuck in your seat for hours on end? This routine will help keep you comfortable and healthy.</intro-description>
+    	<time>5 minutes</time>
+    	<level>Beginner</level>
+    	<requirements>Chair/Plane seat</requirements>
+    	<image>kneeraises</image>
+  
+ 
+		<exercise id="calvemovers">
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+
+		<exercise id="kneeraises"> 	
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>	
+
+		<exercise id="calvemovers">
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+   	
+		<exercise id="kneeraises"> 	
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>
+   	
+   		<exercise id="anklerollsclockwise">
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+	    
+		<exercise id="anklerollscounterclockwise">
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+	
+		<exercise id="leftEarStretch"> 	
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>	
+
+		<exercise id="rightEarStretch"> 	
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>	 
+ 
+		<exercise id="forwardneckstretch"> 	
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>	
+  
+   		<exercise id="leftseattwist"> 	
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>
+   		
+   		<exercise id="rightseattwist"> 	
+			<time-active>20</time-active>
+  			<time-rest>0</time-rest>
+   		</exercise>
+   		
+</routine>

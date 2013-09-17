@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<routine name="Desk Stretch" category="Office Workout"> 
+		<full-name>Desk Stretch</full-name>
+    	<intro-description>Good before you start a long day or as an every-hour stretch.</intro-description>
+    	<time>5 minutes</time>
+    	<level>Beginner</level>
+    	<requirements>Chair</requirements>
+    	<image>leftseattwist</image>
+  
+    	<exercise id="rightEarStretch"> 	
+   			<time-active>20</time-active>
+  			<time-rest>5</time-rest> 
+  		</exercise>	
+    
+    	<exercise id="leftEarStretch"> 	
+   			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+
+		<exercise id="rightupwardwriststretch"> 	
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>
+	 
+		<exercise id="leftupwardwriststretch"> 	
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>
+   		
+		<exercise id="rightdownwardwriststretch"> 	
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>
+
+		<exercise id="leftdownwardwriststretch"> 	
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>
+			
+		<exercise id="anklerollsclockwise"> 	
+   			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>	
+		
+		<exercise id="anklerollscounterclockwise"> 	
+   			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>	
+		
+		<exercise id="leftseattwist"> 	
+   			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>	
+		
+		<exercise id="rightseattwist"> 	
+   			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>	
+		
+		<exercise id="calvemovers">
+   			<time-active>25</time-active>
+  			<time-rest>0</time-rest>
+		</exercise>
+
+		
+</routine>

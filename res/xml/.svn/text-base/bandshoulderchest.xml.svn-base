@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<routine name="Upper body blast" category="Some Equipment and Latest"> 
+   		<intro-description>A great shoulder and back exercise using bands. For experienced trainers, repeat this circuit.</intro-description>
+   	    <has-warmup>false</has-warmup>
+    	<time>13 minutes</time>
+    	<level>Intermediate</level>
+    	<image>bandchestpress</image>
+    	<requirements>Bands, door, and band door anchor. Space to lie down.</requirements>
+	
+	<exercise id="bandlatpulldown">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+    </exercise>
+	
+	<exercise id="bandlatrevextension">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+	</exercise>
+	
+	<exercise id="bandlatpulldown">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+    </exercise>
+	
+	<exercise id="bandlatrevextension">
+			<time-active>40</time-active>
+  			<time-rest>40</time-rest>
+	</exercise>
+	
+	<exercise id="bandchestfly">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+	</exercise>
+	
+	<exercise id="bandpunchr">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+	</exercise>
+	
+	<exercise id="bandrowr">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+	</exercise>
+	
+	<exercise id="bandchestfly">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+	</exercise>
+	
+	<exercise id="bandpunchl">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+	</exercise>
+	
+	<exercise id="bandrowl">
+			<time-active>40</time-active>
+  			<time-rest>40</time-rest>
+	</exercise>
+	
+	<exercise id="floorShoulderRaise">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+	</exercise>
+	
+	<exercise id="lay­ingPullover">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+	</exercise>
+	
+	<exercise id="floorShoulderRaise">
+			<time-active>40</time-active>
+  			<time-rest>10</time-rest>
+	</exercise>
+	
+	<exercise id="lay­ingPullover">
+			<time-active>40</time-active>
+  			<time-rest>0</time-rest>
+	</exercise>
+	
+</routine>

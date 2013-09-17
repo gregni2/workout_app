@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+      
+    <LinearLayout
+       android:id="@+id/linearLayoutMainArea"
+       android:layout_width="fill_parent"
+   	   android:layout_height="wrap_content"
+       android:gravity="left|top"
+       android:orientation="vertical">
+	
+	    <LinearLayout
+	       android:id="@+id/linearLayoutClockArea"
+	       android:layout_width="match_parent"
+	       android:layout_height="0dip"
+	       android:paddingTop="10dip"
+	       android:paddingBottom="10dip"
+	       android:layout_weight="1"
+	       android:gravity="center" >
+		 	 
+	     <TextView
+		        android:id="@+id/statusText"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:textSize="40sp"
+		       	android:paddingRight="20dp"
+		        android:text="@string/active_time" />
+		
+		   <TextView
+		        android:id="@+id/clockText"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:textSize="40sp"
+		        android:text="@string/clock_text" />
+	   </LinearLayout>
+	   
+	   <LinearLayout
+	       android:id="@+id/linearLayoutPictureArea"
+	       android:layout_width="match_parent"
+	       android:layout_height="wrap_content"
+	       android:gravity="center">
+	    
+	           <Button
+           android:id="@+id/left_arrow_button"
+           android:layout_width="110dp"
+           android:layout_height="108dp"
+           android:layout_gravity="center|center_horizontal"
+           android:background="@drawable/leftarrow" />
+     
+        
+	       <ImageView
+		        android:id="@+id/exercise_piture"
+		        android:layout_width="360dp"
+		        android:layout_height="400dp"
+		        android:paddingLeft="20dp"
+		        android:paddingRight="20dp"
+		        android:src="@drawable/selectorofficeworkout" 
+		        android:contentDescription="@string/exercise_picture"/>
+	
+	       <Button
+             android:id="@+id/right_arrow_button"
+             android:layout_width="110dp"
+             android:layout_height="108dp"
+             android:background="@drawable/rightarrow" />
+	   </LinearLayout>
+	        
+	    <TextView
+		       android:id="@+id/exercise_title"
+		       android:layout_width="match_parent"
+		       android:layout_height="wrap_content"
+		       android:gravity="center"
+		       android:text="@string/exercise_title_text"
+		       android:textSize="32sp" />
+	    
+	    <LinearLayout
+	       android:id="@+id/linearLayoutTitleDescription"
+	       android:layout_width="match_parent"
+	       android:layout_height="wrap_content"
+	       android:layout_marginLeft="5dip"
+	       android:gravity="left">
+	       
+		   <TextView
+		       android:id="@+id/exercise_number"
+		       android:layout_width="wrap_content"
+		       android:layout_height="wrap_content"
+		       android:gravity="left"
+		       android:layout_marginRight="10dip"
+		       android:text="@string/exercise_number_text"
+		       android:textSize="32sp" />
+		   
+			<TextView
+		       android:id="@+id/repText"
+		       android:layout_width="wrap_content"
+		       android:layout_height="wrap_content"
+		       
+		       android:text="@string/reps_text"
+		       android:textSize="32sp" />
+	    </LinearLayout> 
+	   
+	   <TextView
+	       android:id="@+id/text_description"
+	       android:layout_width="wrap_content"
+	       android:layout_height="wrap_content"
+	       android:layout_marginLeft="5dip"
+	       android:gravity="left|top"
+	       android:text="@string/text_description"
+	       android:textSize="28sp" />
+	  
+	   
+	</LinearLayout>
+	
+    <LinearLayout
+        android:id="@+id/linearLayoutButtons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/linearLayoutMainArea"
+        android:gravity="bottom" >
+   
+      <TextView
+	       android:id="@+id/deleteME"
+	       android:layout_width="wrap_content"
+	       android:layout_height="wrap_content"
+	       android:text="XLARGE VIEW"
+	       android:textSize="20sp" />
+      
+       <Button
+           android:id="@+id/pause_explain_button_text"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="@string/pause_explain_button_text"
+           android:textSize="40sp" />
+  
+ 	   <Spinner
+ 	       android:id="@+id/voice_dropdown"
+ 	       android:layout_width="wrap_content"
+ 	       android:layout_height="wrap_content"
+ 	       android:textSize="40sp" />
+ 	       
+ 	
+        
+    </LinearLayout>
+
+</RelativeLayout>
+
+
+
+ 	   	

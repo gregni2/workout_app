@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+    <TextView
+            android:id="@+id/activitytitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/alarmtitle"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ListView 
+        android:id="@android:id/list" 
+        android:layout_width="wrap_content"
+        android:layout_height="0dip"
+        android:layout_weight="1" 
+        />
+    
+    <LinearLayout
+        android:id="@+id/eventButtonLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center|center_vertical" >
+
+        <Button
+            android:id="@+id/scheduleRoutineButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/addroutinealarm" />
+
+        <Button
+            android:id="@+id/planDayButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/planhealthyday" />
+     </LinearLayout>
+    
+    <com.google.ads.AdView 
+          android:id="@+id/adView"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          ads:adUnitId="a14ed3385463551"
+          ads:adSize="BANNER"
+    	  ads:loadAdOnCreate="true"
+          />
+
+            
+</LinearLayout>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.s4.wyaw"
+      android:versionCode="16"
+      android:versionName="16.0"
+      android:installLocation="auto">  
+      
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-sdk android:minSdkVersion="4" />
+    
+    <application android:icon="@drawable/iconrunner2" android:label="@string/app_name"   android:screenOrientation="portrait" android:debuggable="false">
+    
+        <activity android:name="WorkoutChooser"
+                  android:label="Workouts for Wherever You Are"
+                  android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.default" />
+            </intent-filter>
+        </activity>
+        
+        <activity android:name="CategorySelectorList"
+        	android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.default" />
+            </intent-filter>
+        </activity>  
+        
+        <activity android:name="com.s4.wyaw.list.RoutineSelectorActivity"
+        	android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.default" />
+            </intent-filter>
+        </activity>  
+        
+         <activity android:name="com.s4.wyaw.routinedisplayer.RoutineDisplay"
+         	android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"></action>
+                <category android:name="android.intent.category.default"></category>
+            </intent-filter>
+          </activity>
+         
+         <activity android:name="com.s4.wyaw.routinedisplayer.VideoRoutineDisplay"
+         	android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"></action>
+                <category android:name="android.intent.category.default"></category>
+            </intent-filter>
+          </activity>
+         
+         <activity android:name="SplashScreen"
+         	android:theme="@android:style/Theme.NoTitleBar"
+         	android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"></action>
+                <category android:name="android.intent.category.LAUNCHER"></category>
+            </intent-filter>
+        </activity>
+        
+        <activity android:name="ExerciseExplanation"
+                  android:label="@string/app_name"
+                  android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.default" />
+            </intent-filter>
+        </activity> 
+        
+        <activity android:name="CompletedView"
+                  android:label="@string/app_name"
+                  android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.default" />
+            </intent-filter>
+        </activity>
+        
+        <activity android:name="com.s4.wyaw.workoutalarm.WorkoutAlarm"
+                  android:label="@string/app_name"
+                  android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.default" />
+            </intent-filter>
+        </activity>
+        
+        <activity android:name="com.s4.wyaw.workoutalarm.PlanDayAlarmView"
+                  android:label="@string/app_name"
+                  android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.default" />
+            </intent-filter>
+        </activity>
+        
+        <activity android:name="com.s4.wyaw.workoutalarm.ScheduleAlarmView"
+                  android:label="@string/app_name"
+                  android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.default" />
+            </intent-filter>
+        </activity>
+        
+        
+        <!-- Remove trophy view for now  -->
+        <activity android:name="TrophySelectorList"
+                  android:label="@string/app_name"
+                  android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.default" />
+            </intent-filter>
+        </activity>
+        
+        <activity android:name="com.s4.wyaw.DashboardActivity" 
+            	  android:label="@string/app_name"
+            	  android:screenOrientation="portrait">
+    		<intent-filter>
+        		<action android:name="android.intent.action.MAIN" />
+        		<category android:name="android.intent.category.default" />
+    		</intent-filter>
+		</activity>
+        
+        
+   		 <activity android:name="com.google.ads.AdActivity"
+              android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"/>
+
+         <receiver android:name="com.s4.wyaw.workoutalarm.AlarmReceiver" />
+   
+    </application>
+        
+    
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/> 
+</manifest> 
+
+
+<!--  
+                  -->

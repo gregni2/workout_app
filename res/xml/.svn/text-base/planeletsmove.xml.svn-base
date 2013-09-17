@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<routine name="Let’s Move - After Traveling" category="Travel"> 
+   		<intro-description>These important exercises get your joints loose and your blood flowing again after that long trip.</intro-description>
+    	<time>5 minutes</time>
+    	<level>Beginner</level>
+    	<requirements>Small space.</requirements>
+		<image>frontpunches</image>
+  
+		<exercise id="shoulderrolls">
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+		
+		<exercise id="sidebend"> 	
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>	
+   	
+		<exercise id="marchingInPlace"> 	
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>	
+   
+   		<exercise id="torsotwists"> 	
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>	
+   
+		<exercise id="sidesteps"> 	
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>	
+		
+		<exercise id="frontpunches"> 	
+			<time-active>20</time-active>
+  			<time-rest>0</time-rest>
+   		</exercise>	
+   		
+		<exercise id="marchingInPlace"> 	
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>	
+   		
+   		<exercise id="overheadpunches"> 	
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>
+   		
+   		<exercise id="sidesteps"> 	
+			<time-active>20</time-active>
+  			<time-rest>5</time-rest>
+   		</exercise>
+   		
+   		<exercise id="backSlaps"> 	
+			<time-active>20</time-active>
+  			<time-rest>0</time-rest>
+   		</exercise>
+   		
+		
+</routine>

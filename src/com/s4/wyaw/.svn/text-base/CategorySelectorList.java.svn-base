@@ -1,0 +1,259 @@
+package com.s4.wyaw;
+
+import java.util.HashMap;
+import java.util.Vector;
+
+import android.app.ListActivity;
+import android.content.Context;
+import android.content.Intent;
+import android.net.Uri;
+import android.os.Bundle;
+import android.util.Log;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.view.ViewGroup;
+import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemClickListener;
+import android.widget.BaseAdapter;
+import android.widget.ListView;
+import android.widget.TextView;
+
+import com.flurry.android.FlurryAgent;
+import com.s4.wyaw.exercise.Routine;
+import com.s4.wyaw.exercise.Trainer;
+import com.s4.wyaw.routinedisplayer.RoutineDisplay;
+import com.s4.wyaw.routinedisplayer.VideoRoutineDisplay;
+
+//
+// List the routines in a category to let the user choose one 
+// of the routines to begin.  
+//
+
+public class CategorySelectorList extends ListActivity 
+{
+	Vector<Routine> routines_ = null; 
+    Trainer trainer_ = null;
+	
+	private static class EfficientAdapter extends BaseAdapter {
+	        private LayoutInflater mInflater;
+	        Vector<Routine> routineNames_;
+ 
+	        public EfficientAdapter(Context context, Vector<Routine> routineNames) 
+	        	{ 
+		        
+	        	// Cache the LayoutInflate to avoid asking for a new one each time.
+	            mInflater = LayoutInflater.from(context);
+	        	routineNames_ = routineNames;
+	        }
+
+	        /**
+	         * The number of items in the list is determined by the number of speeches
+	         * in our array.
+	         *
+	         * @see android.widget.ListAdapter#getCount()
+	         */
+	        public int getCount() {
+	            return routineNames_.size();
+	        }
+
+	        /**
+	         * Since the data comes from an array, just returning the index is
+	         * sufficent to get at the data. If we were using a more complex data
+	         * structure, we would return whatever object represents one row in the
+	         * list.
+	         *
+	         * @see android.widget.ListAdapter#getItem(int)
+	         */
+	        public Object getItem(int position) {
+	            return position;
+	        }
+
+	        /**
+	         * Use the array index as a unique id.
+	         *
+	         * @see android.widget.ListAdapter#getItemId(int)
+	         */
+	        public long getItemId(int position) {
+	            return position;
+	        }
+
+	        /**
+	         * Make a view to hold each row.
+	         *
+	         * @see android.widget.ListAdapter#getView(int, android.view.View,
+	         *      android.view.ViewGroup)
+	         */
+	        public View getView(int position, View convertView, ViewGroup parent) {
+	            // A ViewHolder keeps references to children views to avoid unneccessary calls
+	            // to findViewById() on each row.
+	            ViewHolder holder;
+
+	            // When convertView is not null, we can reuse it directly, there is no need
+	            // to reinflate it. We only inflate a new View when the convertView supplied
+	            // by ListView is null.
+	            if (convertView == null) {
+	                convertView = mInflater.inflate(R.layout.list_item_icon_text, null);
+
+	                // Creates a ViewHolder and store references to the two children views
+	                // we want to bind data to.
+	                holder = new ViewHolder();
+	                holder.text = (TextView) convertView.findViewById(R.id.text);
+	                holder.bottomText = (TextView) convertView.findViewById(R.id.textBottom);
+	               // holder.icon = (ImageView) convertView.findViewById(R.id.icon);
+
+	                convertView.setTag(holder);
+	            } else {
+	                // Get the ViewHolder back to get fast access to the TextView
+	                // and the ImageView.
+	                holder = (ViewHolder) convertView.getTag();
+	            }
+
+	            // Bind the data efficiently with the holder.
+	            Routine tmpRoutine = routineNames_.get(position);
+	            if (tmpRoutine != null) {
+	            	holder.text.setText(tmpRoutine.getName()); 
+	            	holder.bottomText.setText(tmpRoutine.getLevel() + " : " + tmpRoutine.getTime() + " : Required: " + tmpRoutine.getRequired() );
+	            }
+
+	            return convertView;
+	        }
+
+	        static class ViewHolder {
+	            TextView text;
+	            TextView bottomText;
+	        }
+	    }	
+	
+	private class AdClickListener implements OnClickListener {
+	    @Override
+	    public void onClick(View v) {
+	    	FlurryAgent.onEvent("Aylio Add Click");
+	    	startActivity( new Intent(Intent.ACTION_VIEW).setData(Uri.parse("http://www.aylio.com/?utm_source=workoutapp&utm_medium=banner&utm_campaign=workout%2Bapp")) );
+        }
+	}
+
+    //
+	// Called when the activity is first created.
+	//
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        Log.d("CategorySelectorList", "Enter Constructor");
+         setContentView(R.layout.categoryselector);
+        
+        //
+        // Pull the bundle of "extras" of the the intent
+        //
+        Bundle extras = getIntent().getExtras();
+      
+        //
+        // Get out the category if it is there (which it should be) but handle
+        // a missing value.  Handle this error better.
+        //
+        String category = (extras != null) ? extras.getString("category") : "ERROR";
+        Log.d("CategorySelectorList routine names setup - category = ", category);
+        
+        //
+        // Setup the trainer.
+        //
+        trainer_ = Trainer.getTrainer(this);
+        trainer_.loadSecondGroupOfRoutines(this);
+        
+        //
+        // Put the passed-in category into the title
+        //
+        this.setTitle("Category: " + category);
+             
+        //
+        // There is an array of strings called "workout_categories"
+        // set the list adapter with these strings.
+        //
+        routines_ = getRoutines(category);
+        if (routines_ == null) {
+        	Log.e("CategorySelectorList::onCreate", "routines NULL");
+        	return;
+        }
+ 
+        //
+        // Set adapter.
+        //
+        ListView lv = (ListView) getListView();
+        setListAdapter(new EfficientAdapter(this, routines_));
+
+        //
+        // Setup the list on click..
+        //
+        lv.setTextFilterEnabled(true);
+        lv.setOnItemClickListener(new OnItemClickListener() 
+        {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) 
+            {		//
+            		// Display the new routine.
+            		//
+            		if (routines_.get(position) != null) {
+            			//
+            			// Setup the exercises.
+            			//
+            			Routine routine = routines_.get(position);
+            			Intent intent = null;
+            			if (routine.isVideo_ == false) {
+	            			//
+	            			// Display Routine View.
+            				//
+	            	 		intent = new Intent (view.getContext(), RoutineDisplay.class); 
+	            	 		RoutineDisplay.routine_ = routine;
+	        			}
+            			else {
+            			/*	intent = new Intent (view.getContext(), VideoRoutineDisplay.class);
+            				VideoRoutineDisplayer.routine_ = routine;
+            				*/
+            				intent = new Intent (view.getContext(), VideoRoutineDisplay.class);
+            				
+            			}
+              		
+            			startActivity(intent);
+              	    }
+            		else
+            		{
+            		//	Toast.makeText(view.getContext(), "Not implmented yet", Toast.LENGTH_LONG).show();
+            		}
+      	           
+            }
+        });
+        
+
+        // Listen for ads.
+        AdClickListener adClickListener = new AdClickListener();
+ 	    findViewById(R.id.ad_routines_button).setOnClickListener(adClickListener);
+        
+        Log.d("CategorySelectorList", "Enter Constructor"); 
+    }
+    
+    //
+    // return all the possible routines associated with a particular category of workouts.
+    // for example. At Your Desk Stretch will return the desk_routines which include,
+    // neck and shoulder stretching, and others.
+    //
+    private Vector<Routine> getRoutines(String category) {
+    	return trainer_.getRoutines(category);
+    }
+     
+
+	@Override protected void onStart() { 	
+		super.onStart();
+		  
+		FlurryAgent.onStartSession(this, "WC41REE2S5H3HCRR3I4F");
+		HashMap<String, String> eventArgs = new HashMap<String, String>();
+		eventArgs.put("Where Displayed", "Routine selection Display");	
+		FlurryAgent.onEvent("Aylio ad displayed", eventArgs);
+	}
+
+	
+	@Override
+	protected void onStop() {
+		super.onStop();
+		FlurryAgent.onEndSession(this);
+	}
+}

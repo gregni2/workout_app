@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<routine name="5 Minute Cooldown Stretch" category="Minutes to Spare, Anywhere"> 
+   		<intro-description>A great after-workout stretch, or for just when you need to feel good. Practice relaxed breathing.</intro-description>
+    	<time>5 minutes</time>
+    	<level>Beginner</level>
+    	<requirements>Small space</requirements>
+    	<image>cheststretch</image>
+  
+    	<exercise id="leftcalfstretch">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+		
+		<exercise id="rightcalfstretch">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+		
+    	<exercise id="rtricepstretch">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+    	
+    	<exercise id="ltricepstretch">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+    	
+    	<exercise id="cheststretch">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+		
+		<exercise id="leftcalfstretch">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+		
+		<exercise id="rightcalfstretch">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+		
+		<exercise id="leftstraightlegstretch">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+		
+		<exercise id="rightstraightlegstretch">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+	
+		<exercise id="leftglutestretch">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+	
+		<exercise id="rightglutestretch">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+		
+		<exercise id="righthipflexerstretch">
+			<time-active>25</time-active>
+  			<time-rest>5</time-rest>
+		</exercise>
+		
+		<exercise id="lefthipflexerstretch">
+			<time-active>25</time-active>
+  			<time-rest>0</time-rest>
+		</exercise>
+ 		
+</routine>
+		
